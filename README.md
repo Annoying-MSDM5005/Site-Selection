@@ -4,6 +4,8 @@ Authors: [Algebra-FUN](https://github.com/Algebra-FUN),   [Nibblesin](https://gi
 
 Copyright © 2023 All Rights Reserved.
 
+> Description on datasets can be found in [data/README.md](data/README.md)
+
 ## Basic strategy on site selection
 
 **Learn the experience of site selection from your competitors.**
