@@ -1,3 +1,9 @@
+"""
+utils.py
+Author: Algebra-FUN, Nibblesin
+Copyright © 2023 All Rights Reserved.
+"""
+
 import pandas as pd
 import geopandas as gpd
 import numpy as np

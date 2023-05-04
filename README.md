@@ -1,5 +1,9 @@
 # Composite Geographic Site Scoring Model
 
+Authors: [Algebra-FUN](https://github.com/Algebra-FUN),   [Nibblesin](https://github.com/Nibblesin)
+
+Copyright © 2023 All Rights Reserved.
+
 ## Basic strategy on site selection
 
 **Learn the experience of site selection from your competitors.**

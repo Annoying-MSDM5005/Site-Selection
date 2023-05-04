@@ -1,3 +1,10 @@
+"""
+MTRStationScraper.py
+Author: Algebra-FUN
+Copyright © 2023 All Rights Reserved.
+"""
+
+
 import requests as req
 from bs4 import BeautifulSoup
 import json
