@@ -1,4 +1,3 @@
 .DS_Store
 data/rating.json
-data/MTRStation.json
 code/GeoRecommendModel/*
