@@ -1,0 +1,2501 @@
+[
+    {
+        "__typename": "InternalStoreType",
+        "id": "185",
+        "code": "60273",
+        "name": "Shun Tin Estate, Kwun Tong",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__KWUN_TONG",
+        "address": "Shop Nos. 11-16, G/F, Tin Kuen House, Shun Tin Estate, Kwun Tong, Kowloon",
+        "lat": "22.325405",
+        "lng": "114.225977",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2285",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/X-273_2_mx1UJAs.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60273"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "203",
+        "code": "60293",
+        "name": "Jubilant Plaza",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__TO_KWA_WAN",
+        "address": "Shop 105-106, 1/F, Jubilant Plaza, No. 33 Ma Tau Kok Road, To Kwa Wan, Kowloon",
+        "lat": "22.321915",
+        "lng": "114.189618",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2301",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/H-293_2_1bb1I8p_xoYyFC7.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60293"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "83",
+        "code": "60033",
+        "name": "Po Lam Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSEUNG_KWAN_O",
+        "address": "Shop 102, G/F., Po Lam Shopping Centre, Po Lam Estate, Tseung Kwan O, N.T.",
+        "lat": "22.325167",
+        "lng": "114.256156",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2199",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/G-033_2_0867WkX.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60033"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "116",
+        "code": "60178",
+        "name": "Metro City Phase I",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSEUNG_KWAN_O",
+        "address": "Shop Nos.204 & 207A, Level 2, Metro City Phase I,Tseung Kwan O, N.T.",
+        "lat": "22.321740",
+        "lng": "114.257455",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2354",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/178_S.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60178"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "139",
+        "code": "60218",
+        "name": "The Lane",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSEUNG_KWAN_O",
+        "address": "Shop No. 111, 1/F, The Lane, Hang Hau, Tseung Kwan O, N.T.",
+        "lat": "22.316114",
+        "lng": "114.264577",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2238",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/G-218_2_zV7M3QD.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60218"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "140",
+        "code": "60219",
+        "name": "Choi Tak Shopping Centre, Ngau Tau Kok",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__NGAU_TAU_KOK",
+        "address": "Shop 514, 5/F, Choi Tak Shopping Centre, Ngau Tau Kok, Kowloon",
+        "lat": "22.329595",
+        "lng": "114.213238",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2239",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/G-219_2_zQb3UEc.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60219"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "209",
+        "code": "60299",
+        "name": "Park Central",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSEUNG_KWAN_O",
+        "address": "Shop Nos. B12 and B13, B1/F, Park Central, 9 Tong Tak Street, Tseung Kwan O, N.T.",
+        "lat": "22.307121",
+        "lng": "114.257252",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2309",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/G-299_2_6LloQsL.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60299"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "224",
+        "code": "60312",
+        "name": "Bauhinia Garden",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSEUNG_KWAN_O",
+        "address": "Shop Nos. S9, S9A, S9B, S9D, S9E, S10, S10A, S10D & S10E, G/F, Bauhinia Garden, 11 Tong Chun , Tseung Kwan O, Sai Kung, N.T.",
+        "lat": "22.307123",
+        "lng": "114.261760",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2657",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/312.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60312"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "81",
+        "code": "60030",
+        "name": "Tin Ping Estate",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHEUNG_SHUI",
+        "address": "Tin Ping Cooked Food Centre, Stall No. 1-6, Tin Ping Estate, Sheung Shui, N.T.",
+        "lat": "22.503322",
+        "lng": "114.132991",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2329",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/J-0302_4lAMoMs.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60030"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "101",
+        "code": "60137",
+        "name": "Regentville Phase I",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__FANLING",
+        "address": "Shop 23 on G/F., Regentville Phase I, 8 Wo Mun Street, Luen Wo Hui, Fanling, New Territories",
+        "lat": "22.500802",
+        "lng": "114.144280",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2214",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/J-1371_atzgbIo.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60137"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "105",
+        "code": "60161",
+        "name": "Fanling Town Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__FANLING",
+        "address": "Shop Nos. 51B, 52C, 86-88 on Level 2, Fanling Town Centre, Fanling, N.T.",
+        "lat": "22.491793",
+        "lng": "114.140074",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2213",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/J-161_2_HbNQtbs.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60161"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "136",
+        "code": "60214",
+        "name": "Plaza Ascot",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__FO_TAN",
+        "address": "Shop Units G86-87, Plaza Ascot, No. 1 Tsun King Road, Fo Tan, Shatin, N.T.",
+        "lat": "22.398724",
+        "lng": "114.201191",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2245",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/J-214_2_alWw0bM.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60214"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "152",
+        "code": "60236",
+        "name": "Flora Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__FANLING",
+        "address": "Shop No. 72, G/F, Flora Plaza, No. 88 Pak Wo Road, Fanling, N.T.",
+        "lat": "22.485967",
+        "lng": "114.141241",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2259",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/J-236_2_rgtEdTz.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60236"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "169",
+        "code": "60253",
+        "name": "Shatin Galleria",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__FO_TAN",
+        "address": "Shop Nos. 10-12 & 17 on 1/F, Shatin Galleria, 18-24 Shan Mei Street, Fo Tan, N.T.",
+        "lat": "22.397073",
+        "lng": "114.193443",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2327",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/J-253_2_eurZ2NI.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60253"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "191",
+        "code": "60279",
+        "name": "Wah Ming Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__FANLING",
+        "address": "Shop No. G33, G/F, Wah Ming Shopping Centre, Wah Ming Estate, No. 21 Wah Ming Road, Fanling, N.T.",
+        "lat": "22.483953",
+        "lng": "114.141093",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2326",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/J-279_2_q4TSLji_GTmGVF8.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60279"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "231",
+        "code": "60316",
+        "name": "Queens Hill Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__FANLING",
+        "address": "Shop Nos. 26 and 27, G/F, Queens Hill Shopping Centre, Queens Hill Estate, Fanling, N.T.",
+        "lat": "22.503750",
+        "lng": "114.157450",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2818",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/316_6wUukRl.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60316"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "108",
+        "code": "60167",
+        "name": "Professional Building, Causeway Bay",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__CAUSEWAY_BAY",
+        "address": "Shop No.1 on G/F,the whole 1/F and a portion of the Flat Roof on 5/F, Professional Bldg., 19-23 Tung Lo Wan Rd, Hong Kong",
+        "lat": "22.278718",
+        "lng": "114.188412",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2321",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/1671_OQXWhDa.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60167"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "115",
+        "code": "60176",
+        "name": "Sceneway Garden",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__LAM_TIN",
+        "address": "Shops 32 & 33, Unit 1 on Level (site 1) 36 of Commercial Development, Sceneway Garden, 8 Sceneway Road, Kowloon",
+        "lat": "22.308029",
+        "lng": "114.233029",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2349",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/176_N1.jpeg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60176"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "222",
+        "code": "60230",
+        "name": "Laguna Plaza",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__LAM_TIN",
+        "address": "Shop No. S2, 2/F, Laguna Plaza, 88 Cha Kwo Ling Road, Kwun Tong, Kowloon",
+        "lat": "22.306795",
+        "lng": "114.228106",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2369",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/2301.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60230"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "153",
+        "code": "60237",
+        "name": "Kyoto Plaza",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__CAUSEWAY_BAY",
+        "address": "1/F, Kyoto Plaza, 491-499 Lockhart Road, Causeway Bay, Hong Kong",
+        "lat": "22.280791",
+        "lng": "114.183009",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2260",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/237_2_IS9b7qt.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60237"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "161",
+        "code": "60244",
+        "name": "MEGABOX Kowloon Bay",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__KOWLOON_BAY",
+        "address": "Unit 24 on Level 2 of MegaBox, Enterprise Square Five, 38 Wang Chiu Road, Kowloon Bay, Kowloon.",
+        "lat": "22.319704",
+        "lng": "114.207939",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2272",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/244_2_waLOyZC.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60244"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "168",
+        "code": "60252",
+        "name": "Rhythm Garden",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__SAN_PO_KONG",
+        "address": "Shop Nos. 757-764, G/F, Rhythm Garden, No. 242 Choi Hung Road, Kowloon",
+        "lat": "22.337401",
+        "lng": "114.202685",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2273",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/252_2_5B002oa.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60252"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "206",
+        "code": "60296",
+        "name": "Kai Tin Shopping Centre",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__LAM_TIN",
+        "address": "Shop No. 206, 2/F, Kai Tin Shopping Centre, 50 Kai Tin Road, Lam Tin, Kowloon",
+        "lat": "22.308696",
+        "lng": "114.234562",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2303",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/2961_Zc8Zbg7.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60296"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "233",
+        "code": "60318",
+        "name": "Cos Centre",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__KWUN_TONG",
+        "address": "Shop H, 1/F, Cos Centre, No. 56 Tsun Yip Street, Kwun Tong, Kowloon",
+        "lat": "22.311119",
+        "lng": "114.222777",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2914",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/318.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60318"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "120",
+        "code": "60188",
+        "name": "Lei Yue Mun Plaza",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__LEI_YUE_MUN",
+        "address": "Shop No. 205-206, 2/F., Lei Yue Mun Plaza, Kowloon",
+        "lat": "22.296154",
+        "lng": "114.239704",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2223",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/G-188_2_7SVg344.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60188"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "133",
+        "code": "60210",
+        "name": "Millennium City 6",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__KWUN_TONG",
+        "address": "Shop No. 1, 1/F, Millennium City 6, No. 392 Kwun Tong Road, Kwun Tong, Kowloon",
+        "lat": "22.313616",
+        "lng": "114.222170",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2241",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/X-210_2_gBvoKBm.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60210"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "144",
+        "code": "60225",
+        "name": "Hong Ning Road, Kwun Tong",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__KWUN_TONG",
+        "address": "1/F, Morning Light Building, 7-9 Hong Ning Road, Kwun Tong, Kowloon",
+        "lat": "22.313932",
+        "lng": "114.223281",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2330",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/225_N_2.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60225"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "183",
+        "code": "60271",
+        "name": "Kowloon City Plaza",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__KOWLOON_CITY",
+        "address": "Shops B112-B113, Basement One Floor, Kowloon City Plaza, No. 128 Carpenter Road, Kowloon City, Kowloon",
+        "lat": "22.331086",
+        "lng": "114.188055",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2287",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/X-271_2_fwM4TNj.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60271"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "184",
+        "code": "60272",
+        "name": "Yue Xiu Plaza",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__SAN_PO_KONG",
+        "address": "Shop Nos. 111-118, 1/F, Yue Xiu Plaza, No. 9 Ning Yuen Street, San Po Kong, Kowloon",
+        "lat": "22.333877",
+        "lng": "114.195790",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2286",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/X-272_2_kxskdun.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60272"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "207",
+        "code": "60297",
+        "name": "E-Max Kowloon Bay",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__KOWLOON_BAY",
+        "address": "Portions of Shop B101 on the Basement One Floor of the Kowloonbay International Trade & Exhibition Centre at No. 1 Trademart Drive, Kowloon",
+        "lat": "22.323969",
+        "lng": "114.203816",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2316",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/X-297-21_I180RRn.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60297"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "214",
+        "code": "60305",
+        "name": "New Mandarin Plaza",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__TSIM_SHA_TSUI",
+        "address": "Shop Nos. 105-109 & 110-113, 1/F, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui, Kowloon",
+        "lat": "22.300673",
+        "lng": "114.178901",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2314",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/X-3051_bMhLX1u.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60305"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "96",
+        "code": "60107",
+        "name": "Kingswood Richly Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TIN_SHUI_WAI",
+        "address": "Shop A168 Kingswood Richly Plaza, Tin Shui Wai, Yuen Long, N.T.",
+        "lat": "22.452815",
+        "lng": "114.000653",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2191",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/B-1071_qHu4sQ4.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60107"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "160",
+        "code": "60243",
+        "name": "Tin Yiu Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TIN_SHUI_WAI",
+        "address": "Shop No. L120, 1/F, Tin Yiu Plaza, No. 2 Tin Wu Road, Tin Shui Wai, N.T.",
+        "lat": "22.450625",
+        "lng": "114.004175",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2262",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/B-2431_bGI0BxI.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60243"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "181",
+        "code": "60269",
+        "name": "No. 8 Tin Sau Road",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TIN_SHUI_WAI",
+        "address": "Shop Nos. 1003-1009, 1/F, No. 8 Tin Sau Road, Tin Shui Wai, N.T.",
+        "lat": "22.464473",
+        "lng": "114.003525",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2280",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/B-269_2_EUBMFqC.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60269"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "199",
+        "code": "60289",
+        "name": "Tin Shui Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TIN_SHUI_WAI",
+        "address": "Shop No. G15, G/F, Tin Shui Shopping Centre, Tin Shui (I&II) Estate, Tin Shui Wai, N.T.",
+        "lat": "22.456155",
+        "lng": "113.998462",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2192",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/B-289_2_JpCAef1.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60289"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "205",
+        "code": "60295",
+        "name": "+WOO (Phase 1 and Phase 2)",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TIN_SHUI_WAI",
+        "address": "Shop Nos. G83 & G88, G/F, Phase 1, Fortune Kingswood, 12-18 Tin Yan Road, Tin Shui Wai, New Territories",
+        "lat": "22.457422",
+        "lng": "114.002667",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2294",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/B-295_2_RQAo5Dl.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60295"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "232",
+        "code": "60317",
+        "name": "Tsing Yi Garden",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSING_YI",
+        "address": "Shop Nos. 4-8, 1/F, Tsing Yi square, Tsing Yi Garden, 7-19 Tsing Luk Street, Tsing Yi, New Territories",
+        "lat": "22.353789",
+        "lng": "114.104795",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2856",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/317.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60317"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "110",
+        "code": "60169",
+        "name": "Greenfield Garden Comm,. Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSING_YI",
+        "address": "Shop No. 101 on 1/F, Greenfield Garden Commercial Centre,Phase 2, Tsing Yi, N.T",
+        "lat": "22.353385",
+        "lng": "114.109287",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2206",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/D-169_2_GQFg806.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60169"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "121",
+        "code": "60189",
+        "name": "Ashley Road, Tsim Sha Tsui",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__TSIM_SHA_TSUI",
+        "address": "The Whole of Lower Ground Floor, Yue Hwa International Building,No. 1 Kowloon Park Drive, No.7 Ashley Road, Kowloon.",
+        "lat": "22.296528",
+        "lng": "114.170533",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2368",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/D-189_Resize.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60189"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "122",
+        "code": "60191",
+        "name": "Nam Cheong Place",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__SHAM_SHUI_PO",
+        "address": "Shop No. 125B-127, First Floor, Fu Cheong Shopping Centre, Sham Mong Road, Sham Shui Po, Kln .",
+        "lat": "22.327243",
+        "lng": "114.155072",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2219",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/D-1911_L1dJckN.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60191"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "124",
+        "code": "60193",
+        "name": "Kowloon Station",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__JORDAN",
+        "address": "Concession KOW 57, In-Town Check-In Hall, MTR Kowloon Station, 1 Austin Road West, Kln.",
+        "lat": "22.304190",
+        "lng": "114.161494",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2220",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/D-193_2_N73hyTE.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60193"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "129",
+        "code": "60204",
+        "name": "Elements",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__JORDAN",
+        "address": "Shop Nos. G002-03 and Open Seating Area, Ground Level at Elements, Kowloon",
+        "lat": "22.303558",
+        "lng": "114.163070",
+        "image": {
+            "__typename": "ImageType",
+            "id": "3324",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/204.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60204"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "135",
+        "code": "60213",
+        "name": "Grand Centre",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__TSIM_SHA_TSUI",
+        "address": "The Entire 1/F, Grand Centre, 8 Humphreys Avenue, Tsimshatsui, Kowloon",
+        "lat": "22.298606",
+        "lng": "114.173586",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2495",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/2131_N.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60213"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "162",
+        "code": "60245",
+        "name": "Mayfair Gardens",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSING_YI",
+        "address": "Shop Nos. 5-9, 15-16 and 21, Level 3, Mayfair Gardens, Tsing Yi, N.T.",
+        "lat": "22.344188",
+        "lng": "114.107455",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2265",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/D-245_2_Ev7COwW_CpLJBJr.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60245"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "208",
+        "code": "60298",
+        "name": "Cheung Hong Estate",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSING_YI",
+        "address": "Shop Nos. 1,2,3,4 and 5, G/F, Hong Wo House, Cheung Hong Estate, 12 Ching Hong Road, Tsing Yi, New Territories",
+        "lat": "22.349504",
+        "lng": "114.104914",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2307",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/D-298_2_U57S5I7.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60298"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "217",
+        "code": "60308",
+        "name": "Cheung Hang Shopping Centre, Tsing Yi",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSING_YI",
+        "address": "Shop No. 324, 3/F, Cheung Hang Shopping Centre, Cheung Hang Estate, 6 Liu To Road, Tsing Yi, N.T.",
+        "lat": "22.354741",
+        "lng": "114.097670",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2308",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/D-308_2_kmh1k5v.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60308"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "80",
+        "code": "60027",
+        "name": "Shek Kip Mei Estate",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__SHEK_KIP_MEI",
+        "address": "Shops 9 & 10, G/F., Block 42, Shek Kip Mei Estate, Kowloon.",
+        "lat": "22.332417",
+        "lng": "114.165288",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2494",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/0271_N.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60027"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "111",
+        "code": "60170",
+        "name": "Hoi Lai Shopping Centre",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__SHAM_SHUI_PO",
+        "address": "Shop 1, Hoi Lai Shopping Centre, Hoi Lai Estate, Sham Shui Po, Kowloon",
+        "lat": "22.332903",
+        "lng": "114.146431",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2497",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/1701_N.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60170"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "147",
+        "code": "60229",
+        "name": "Ancillary Facilities Block, Shek Kip Mei Estate",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__SHEK_KIP_MEI",
+        "address": "Shop No. 4, G/F, Ancillary Facilities Block, Shek Kip Mei Estate, Phase 2, Kowloon",
+        "lat": "22.333327",
+        "lng": "114.167155",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2493",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/2293_N.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60229"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "149",
+        "code": "60233",
+        "name": "Sham Shing Road, Lai Chi Kok",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__LAI_CHI_KOK",
+        "address": "Shop Nos. 30A and 30D on 2/F, The Pacifica Mall, No. 9 Sham Shing Road, Lai Chi Kok, Kowloon",
+        "lat": "22.333954",
+        "lng": "114.149573",
+        "image": {
+            "__typename": "ImageType",
+            "id": "3157",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/L-233_new.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60233"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "165",
+        "code": "60248",
+        "name": "Whampoa Garden",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__HUNG_HOM",
+        "address": "Shop Nos. 3 and 4 on G/F, Site 3, Whampoa Garden, Hunghom, Kowloon",
+        "lat": "22.305153",
+        "lng": "114.186691",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2352",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/248_N.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60248"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "189",
+        "code": "60277",
+        "name": "Heya Crystal",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__CHEUNG_SHA_WAN",
+        "address": "Shop No. 2, G/F, Heya Crystal, 399 Castle Peak Road, Cheung Sha Wan, Kowloon",
+        "lat": "22.339536",
+        "lng": "114.154516",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2353",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/277_N_2.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60277"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "230",
+        "code": "60315",
+        "name": "Dragon Centre",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__SHAM_SHUI_PO",
+        "address": "Shop No. 301A, Level 3, Dragon Centre, 37K Yen Chow Street, Sham Shui Po, Kowloon",
+        "lat": "22.331150",
+        "lng": "114.159820",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2799",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/315.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60315"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "84",
+        "code": "60045",
+        "name": "Kwong Yuen Estate",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop 3, Commercial Block 1, Kwong Yuen Estate, Shatin, N.T.",
+        "lat": "22.381240",
+        "lng": "114.215136",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2366",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/S-0451_1_resize.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60045"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "88",
+        "code": "60077",
+        "name": "Wan Tau Tong Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TAI_PO",
+        "address": "Shop 5, Wan Tau Tong Shopping Centre, Wan Tau Tong Estate, Tai Po",
+        "lat": "22.442306",
+        "lng": "114.167210",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2324",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/S-077_2_RdbGOyJ.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60077"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "125",
+        "code": "60195",
+        "name": "Bank of America Tower, Admiralty",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__ADMIRALTY",
+        "address": "Shop No. G3, G/F., Bank of America Tower, 12 Harcourt Road, Hong Kong",
+        "lat": "22.280544",
+        "lng": "114.163082",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2225",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/S-1951_86zdEdc.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60195"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "137",
+        "code": "60215",
+        "name": "Fortune City One Plus",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop Nos. 35-37 & 90-92, G/F, Fortune City One Plus, City One Shatin, N.T.",
+        "lat": "22.386977",
+        "lng": "114.202658",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2242",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/S-2151_lj9kn5L.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60215"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "145",
+        "code": "60226",
+        "name": "Fortune Plaza, Tai Po",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TAI_PO",
+        "address": "Shop nos. 85-98, 1/F, Fortune Plaza, No. 4 On Chee Road, Tai Po, N.T.",
+        "lat": "22.452723",
+        "lng": "114.168550",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2254",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/S-226_2_EHWNpSA.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60226"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "159",
+        "code": "60263",
+        "name": "Causeway Centre, Wan Chai",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__WAN_CHAI",
+        "address": "Shop No. 3, G/F, Causeway Centre, 28 Harbour Road, Wanchai, H.K.",
+        "lat": "22.280576",
+        "lng": "114.176280",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2253",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/S-263_2_W7V3jLY.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60263"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "175",
+        "code": "60261",
+        "name": "Tai Po Mega Mall",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TAI_PO",
+        "address": "Shop No. 355, Level 2, Zone E, Tai Po Mega Mall, 3 Po Wu Lane, Tai Po, N.T.",
+        "lat": "22.449991",
+        "lng": "114.169113",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2268",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/S-2611_HEYimso.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60261"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "229",
+        "code": "60314",
+        "name": "Far East Finance Centre",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__ADMIRALTY",
+        "address": "Shop No. A3, UG/F, Far East Finance Centre, 16 Harcourt Road, Admiralty, H.K.",
+        "lat": "22.280180",
+        "lng": "114.163970",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2884",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/E996802_rQWwljj.png"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60314"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "89",
+        "code": "60078",
+        "name": "Chi Lok Fa Yuen",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shops 69-74, Chi Lok Fa Yuen, YMTL 156, Tuen Mun, N.T.",
+        "lat": "22.387316",
+        "lng": "113.980483",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2196",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/A-78_2_HS0Vj84.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60078"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "93",
+        "code": "60092",
+        "name": "Siu Lun Court Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop 3-5, Siu Lun Court Shopping Centre, Siu Lun Court, Tuen Mun, N.T.",
+        "lat": "22.384382",
+        "lng": "113.976548",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2188",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/A-092-1_2_XO8zvsL.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60092"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "95",
+        "code": "60104",
+        "name": "Hanford Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop 118-119, G/F., Hanford Plaza, Tuen Mun, N.T.",
+        "lat": "22.382866",
+        "lng": "113.977973",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2189",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/A-104_2_qf8thGC.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60104"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "97",
+        "code": "60115",
+        "name": "Welland Plaza, Sheung Wan",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__SHEUNG_WAN",
+        "address": "Shop 203, 2/F., Welland Plaza, Welland Building, 368 Queen's Road, Central, H.K.",
+        "lat": "22.285856",
+        "lng": "114.149031",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2203",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/A-115_2_UM0Q95R.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60115"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "103",
+        "code": "60156",
+        "name": "Manning House",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__CENTRAL",
+        "address": "Portion of the Shop on 1/F., & the Entire 2/F., Manning House, 48 Queen's Road, Central, Hong Kong",
+        "lat": "22.282043",
+        "lng": "114.156242",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2370",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/156_21.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60156"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "148",
+        "code": "60231",
+        "name": "Fu Tai Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop No. 216, 2/F, Fu Tai Shopping Centre, Fu Tai Estate, Tuen Mun, N.T.",
+        "lat": "22.414008",
+        "lng": "113.983309",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2247",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/A-231_2_QnSUDgx.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60231"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "210",
+        "code": "60300",
+        "name": "Waldorf Garden",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop No. 10, Level Three, Waldorf Garden, 1 Tuen Lee Street, Tuen Mun, N.T.",
+        "lat": "22.391607",
+        "lng": "113.978163",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2306",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/A-300_2_8dso9w0.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60300"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "91",
+        "code": "60084",
+        "name": "Ping Shek Estate, Choi Hung",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__CHOI_HUNG",
+        "address": "Shop 1, Ping Shek Market, Market Block, Ping Shek Estate, Kln.",
+        "lat": "22.333443",
+        "lng": "114.209859",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2205",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/C-084_2_hjoN1gq.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60084"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "92",
+        "code": "60087",
+        "name": "Richland Garden, Kowloon Bay",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__KOWLOON_BAY",
+        "address": "Unit 108, 1/F., Commercial & Garage Block of Richland Garden, 80 Wang Kwong Road, Kowloon Bay, Kowloon",
+        "lat": "22.329311",
+        "lng": "114.206038",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2193",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/C-087_2_k43qZ3e.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60087"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "107",
+        "code": "60165",
+        "name": "Amoy Plaza",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__NGAU_TAU_KOK",
+        "address": "Shop No. F210-212 on 1/F, Phase III, Amoy Plaza, 77 Ngau Tau Kok Road, Kowloon",
+        "lat": "22.324160",
+        "lng": "114.216795",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2218",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/C-165_2_j1DJg2X.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60165"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "132",
+        "code": "60207",
+        "name": "Kwai Fong Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__KWAI_FONG",
+        "address": "Shop Nos. 125-130, First Floor, Kwai Fong Shopping Centre, Kwai Fong Estate, Kwai Chung, N.T.",
+        "lat": "22.358959",
+        "lng": "114.129965",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2233",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/C-207_2_vATxisp.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60207"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "154",
+        "code": "60238",
+        "name": "Choi Wan (I) Estate",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__CHOI_HUNG",
+        "address": "Shop No. B205, 2/F, Commercial/ Car Park Block 2, Choi Wan (I) Estate, 45 Clear Water Bay Road, Ngau Chi Wan",
+        "lat": "22.334157",
+        "lng": "114.214744",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2248",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/C-238_2_N0MYLFt.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60238"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "164",
+        "code": "60247",
+        "name": "Metro Harbour Plaza.",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__TAI_KOK_TSUI",
+        "address": "Shop No. G07, G/F, Metro Harbour Plaza, No. 8 Fuk Lee Street, Tai Kok Tsui, Kowloon",
+        "lat": "22.324276",
+        "lng": "114.160894",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2263",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/C-247_2_5rTeODV.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60247"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "172",
+        "code": "60258",
+        "name": "Temple Mall North",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__WONG_TAI_SIN",
+        "address": "Shop No. N225, Level 2, Temple Mall North, 136 Lung Cheung Road, Wong Tai Sin, Kowloon",
+        "lat": "22.342324",
+        "lng": "114.192925",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2264",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/C-258_2_dr03Rtk.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60258"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "190",
+        "code": "60278",
+        "name": "Kwai Sing Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__KWAI_CHUNG",
+        "address": "Shop Nos. 21-25 & 27-31 on Lower Ground Floor, Kwai Sing Centre, Kwai Chung, N.T.",
+        "lat": "22.365584",
+        "lng": "114.135525",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2281",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/C-278_2_FNlWv4C.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60278"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "166",
+        "code": "60250",
+        "name": "Yau Oi Estate",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop Nos. S-124 and S-125, Level 1, Zone S, H.A.N.D.S., Yau Oi Estate, Yau Oi Road, Tuen Mun, N.T",
+        "lat": "22.387108",
+        "lng": "113.974930",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2266",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/E-250_2_pTKM2Wu.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60250"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "176",
+        "code": "60264",
+        "name": "Lung Mun Oasis",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Portion A of Shop No. 97, G/F, Lung Mun Oasis, No. 43 Lung Mun Road, Tuen Mun, N.T.",
+        "lat": "22.384735",
+        "lng": "113.966509",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2282",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/E-264_2_vzB2WGb.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60264"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "193",
+        "code": "60281",
+        "name": "Leung King Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop No. L225A, Level 2, Leung King Shopping Centre, Leung King Estate, No. 31 Tin King Road, Tuen Mun, N.T.",
+        "lat": "22.405993",
+        "lng": "113.962225",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2295",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/E-2811_86PJAJD.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60281"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "221",
+        "code": "60283",
+        "name": "Smithfield, Kennedy Town",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__SAI_WAN",
+        "address": "Shop 10, Lower Ground Floor, Nos. 45-51 Smithfield, Kennedy Town, Hong Kong",
+        "lat": "22.281854",
+        "lng": "114.128087",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2318",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/E-2831_jsASK7D.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60283"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "201",
+        "code": "60291",
+        "name": "Yan Tin Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop Nos. G12 and G13, G/F, Yan Tin Shopping Centre, Yan Tin Estate, Tuen Mun, N.T.",
+        "lat": "22.414736",
+        "lng": "113.975958",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2296",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/E-291_2_WpFbCgY.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60291"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "220",
+        "code": "60301",
+        "name": "Federate Building.",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__SAI_WAN",
+        "address": "LG/F, Federate Building, Nos. 292-298 Queen's Road West, Nos. 63-65 First Street, Hong Kong",
+        "lat": "22.286730",
+        "lng": "114.142144",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2310",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/E-301_2_sruxQiw.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60301"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "223",
+        "code": "60311",
+        "name": "Yan Oi Tong Jockey Club",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Portion of First floor, Yan Oi Tong Jockey Club Community & Sports Centre, 18 Kai Man Path , Tuen Mun, New Territories",
+        "lat": "22.396750",
+        "lng": "113.975170",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2652",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/311_photo.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60311"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "87",
+        "code": "60076",
+        "name": "Ap Lei Chau Estate",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__AP_LEI_CHAU",
+        "address": "Shop 5, Multi-storey Carpark, Ap Lei Chau Estate, Aberdeen, Hong Kong",
+        "lat": "22.244313",
+        "lng": "114.151314",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2198",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/F-076_2_93HHOwf.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60076"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "102",
+        "code": "60154",
+        "name": "Ming Fung Buliding",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__WAN_CHAI",
+        "address": "Portion A on 1/F of Ming Fung Building, 128-150 Wanchai Road, Wanchai, H.K.",
+        "lat": "22.276946",
+        "lng": "114.176217",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2207",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/F-1541_QUsMMPX.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60154"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "109",
+        "code": "60168",
+        "name": "Chi Fu Landmark",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__POK_FU_LAM",
+        "address": "Shop No. 501, 532-533 & 535-538 on Fifth Floor of Chi Fu Landmark, Pokfulam, Hong Kong",
+        "lat": "22.257606",
+        "lng": "114.138819",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2208",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/F-168_2_lc8KtUy.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60168"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "130",
+        "code": "60205",
+        "name": "Ground Floor of Site 2, Aberdeen Centre",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__ABERDEEN",
+        "address": "Shops 18, 20 to 24 and 26 on the Ground Floor of Site 2, Aberdeen Centre, Hong Kong",
+        "lat": "22.248318",
+        "lng": "114.153436",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2249",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/F-205_2_02EQfTC.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60205"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "142",
+        "code": "60221",
+        "name": "China Insurance Group Building, Sheung Wan",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__SHEUNG_WAN",
+        "address": "Shop Nos. C1A,C1B,C1C and C2C on Ground Floor and All that the Basement of China Insurance Group Building, No.73 Connaught Road Central, Sheung Wan, H.K",
+        "lat": "22.285739",
+        "lng": "114.155174",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2237",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/F-2211_mEbX1sd.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60221"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "157",
+        "code": "60241",
+        "name": "Wu Chung House",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__WAN_CHAI",
+        "address": "Shop 01 and Restaurant B, 2/F, Wu Chung House, No 213 Queen??s Road East, Wanchai, Hong Kong",
+        "lat": "22.274252",
+        "lng": "114.172425",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2250",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/F-241_2_8JIbNmg.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60241"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "171",
+        "code": "60255",
+        "name": "Long Ping Estate",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__YUEN_LONG",
+        "address": "Shop No. L207, 2/F, Commercial/ Car Park Block (Also known as Long Ping Shopping Centre), Long Ping Estate, 1 Long Ping Road, Yuen Long, N.T.",
+        "lat": "22.450101",
+        "lng": "114.023511",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2275",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/255_2_LoVz2QW.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60255"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "158",
+        "code": "60242",
+        "name": "Wah Fu Shopping Centre",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__ABERDEEN",
+        "address": "Shop No. 2C, Wah Fu Shopping Centre, Wah Fu (I) Estate, Aberdeen, H.K.",
+        "lat": "22.250558",
+        "lng": "114.136981",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2346",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/242_2.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60242"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "90",
+        "code": "60083",
+        "name": "Wang Tau Hom Estate, Lok Fu",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__LOK_FU",
+        "address": "Level 2, Wang Fai Centre, Wang Tau Hom Estate, Kowloon.",
+        "lat": "22.341122",
+        "lng": "114.187337",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2200",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/H-083_2_nJzCUKm.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60083"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "94",
+        "code": "60098",
+        "name": "Ka Wai Plaza, Hung Hom",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__HUNG_HOM",
+        "address": "Shop 2-4 Lower G/F., Ka Hing Lau, Ka Wai Chuen, 48 Ma Tau Wai, Hung Hom, Kowloon",
+        "lat": "22.308436",
+        "lng": "114.187421",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2201",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/H-0981_jSw3GAr.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60098"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "99",
+        "code": "60126",
+        "name": "Tsz wan Shan Shopping Centre",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__TSZ_WAN_SHAN",
+        "address": "Shop No. 317 B, 3/F, Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Wong Tai Sin, Kowloon",
+        "lat": "22.348033",
+        "lng": "114.200424",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2217",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/H-126_2_SFHXqn4.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60126"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "146",
+        "code": "60228",
+        "name": "Fu Shan Estate",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__TSZ_WAN_SHAN",
+        "address": "Shop Nos. L206, L207 and L208, LG2/F, Fu Yan House, Fu Shan Estate, Kowloon",
+        "lat": "22.342691",
+        "lng": "114.208267",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2251",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/H-228_2_RtArFNc.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60228"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "192",
+        "code": "60280",
+        "name": "Hollywood, Diamond Hill",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__DIAMOND_HILL",
+        "address": "Shop G120A & G120B, G/F, Plaza Hollywood, Diamond Hill, Kowloon",
+        "lat": "22.341053",
+        "lng": "114.201298",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2302",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/H-280_2_OVdIZze.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60280"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "118",
+        "code": "60181",
+        "name": "Oi Man Shopping Centre",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__HO_MAN_TIN",
+        "address": "Shop No. F25, First Floor, Oi Man Shopping Centre, Oi Man Estate, Homantin, Kowloon",
+        "lat": "22.312585",
+        "lng": "114.178550",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2224",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/H-181_1_xv00h3e.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60181"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "134",
+        "code": "60212",
+        "name": "Homantin Plaza",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__HO_MAN_TIN",
+        "address": "Shop No. 306, 3/F, Homantin Plaza, No.80 Fat Kwong Street, Homantin, Kowloon",
+        "lat": "22.316196",
+        "lng": "114.181928",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2240",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/H-212_2_Mx021KY.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60212"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "85",
+        "code": "60053",
+        "name": "Kin Sang Estate",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop Nos. 106, 107 and 107A, Ground Floor, Commercial Block (As knows as Kin Sang Shopping Centre), Kin Sang Estate, Tuen Mun, N.T.",
+        "lat": "22.407128",
+        "lng": "113.969566",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2197",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/053_2_peTf1pD.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60053"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "100",
+        "code": "60133",
+        "name": "Kau Yuk Road, Yuen Long",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__YUEN_LONG",
+        "address": "1/F., Yuen Long Commercial Centre, 18-24 Kau Yuk Road, Yuen Long, New Territories",
+        "lat": "22.443109",
+        "lng": "114.027840",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2216",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/133_2_XKI2RfL.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60133"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "112",
+        "code": "60171",
+        "name": "Ocean Walk",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop No. 65, Ocean Walk, 168-236 Wu Chui Road,Tuen Mun, N.T.",
+        "lat": "22.372772",
+        "lng": "113.965664",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2215",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/1711_hriVSq0.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60171"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "127",
+        "code": "60198",
+        "name": "Po Tin Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop No. 108, First Floor, Po Tin Shopping Centre, Tuen Mun, New Territories",
+        "lat": "22.409442",
+        "lng": "113.966560",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2231",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/198_2_X1aRL8x.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60198"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "187",
+        "code": "60275",
+        "name": "CDW Building",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSUEN_WAN",
+        "address": "Shop Nos. G02A, G02B & Seating Area, G/F, CDW Building, 388 Castle Peak Road, Tsuen Wan, N.T.",
+        "lat": "22.374957",
+        "lng": "114.113221",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2277",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/275_2_wyxhTdP.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60275"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "204",
+        "code": "60294",
+        "name": "Chelsea Heights",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop No. 201, Level 2, Chelsea Heights, No. 1 Shek Pai Tau Path, Tuen Mun, N.T.",
+        "lat": "22.400627",
+        "lng": "113.973520",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2293",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/2941_kq04zwW.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60294"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "226",
+        "code": "60313",
+        "name": "Kwai Shing East Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__KWAI_CHUNG",
+        "address": "Shop 3 and 4, G/F, Kwai Shing East Shopping Centre, Kwai Shing East Estate, Kwai Chung, N.T.",
+        "lat": "22.364180",
+        "lng": "114.126930",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2697",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/313_EV6ZR4x.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60313"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "128",
+        "code": "60203",
+        "name": "Caribbean Square",
+        "category": "OUTLYING_ISLANDS",
+        "subcategory": "OUTLYING_ISLANDS__TUNG_CHUNG",
+        "address": "Shop No. 18, Podium First Floor, Caribbean Square, Caribbean Coast, Tung Chung, Lantau Island",
+        "lat": "22.291830",
+        "lng": "113.949232",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2232",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/203_2_wQrnCzR.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60203"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "138",
+        "code": "60217",
+        "name": "Bellagio Mall",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHAM_TSENG",
+        "address": "Shop No. 5, Level 3, Bellagio Mall, No. 33 Castle Peak Road, Sham Tseng, Tsuen Wan, N.T.",
+        "lat": "22.367243",
+        "lng": "114.061193",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2246",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/217_2_npBmbMx.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60217"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "170",
+        "code": "60254",
+        "name": "Texaco Road, Tsuen Wan",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSUEN_WAN",
+        "address": "Shop No. G19, G/F, Smartland, Nos. 36-60 Texaco Road, Tsuen Wan, N.T.",
+        "lat": "22.368204",
+        "lng": "114.122003",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2274",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/254_2_acvG9Z8.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60254"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "173",
+        "code": "60259",
+        "name": "Belvedere Garden, Tsuen Wan",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSUEN_WAN",
+        "address": "Shop Nos. 37-39, G/F, Belvedere Square of Belvedere Garden Phase 3, No. 625 Castle Peak Road, Tsuen Wan, N.T.",
+        "lat": "22.371764",
+        "lng": "114.101965",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2261",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/259_2_TVpWoLu.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60259"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "186",
+        "code": "60274",
+        "name": "Century Link",
+        "category": "OUTLYING_ISLANDS",
+        "subcategory": "OUTLYING_ISLANDS__TUNG_CHUNG",
+        "address": "Shop Nos. 101-102, 1/F, Century Link, No. 6 Ying Hong Street, Tung Chung, Lantau Island, N.T.",
+        "lat": "22.295147",
+        "lng": "113.949198",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2276",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/2741.JPG_0t8xDzp.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60274"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "123",
+        "code": "60192",
+        "name": "148 Electric Road",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__NORTH_POINT",
+        "address": "Shop No.1 on G/F of No.148 Electric Road at No.148 Electric Road, H.K.",
+        "lat": "22.286523",
+        "lng": "114.191652",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2230",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/192_2_1zoJRlP.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60192"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "188",
+        "code": "60276",
+        "name": "Waterside Plaza Phase 1",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSUEN_WAN",
+        "address": "Shop Nos. G30-G33, G/F, Waterside Plaza Phase 1, No. 38 Wing Shun Street, Tsuen Wan, N.T.",
+        "lat": "22.363640",
+        "lng": "114.114349",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2278",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/2761_oNrbve9.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60276"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "194",
+        "code": "60282",
+        "name": "Shek Yam Shopping Centre, Kwai Chung",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__KWAI_CHUNG",
+        "address": "Shop LG212, LG2, Shek Yam Shopping Centre, 120 Lei Muk Road, Kwai Chung, N.T.",
+        "lat": "22.371543",
+        "lng": "114.138528",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2290",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/2821_evLC9Nr.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60282"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "198",
+        "code": "60288",
+        "name": "Island Place",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__NORTH_POINT",
+        "address": "Shop 201, 2/F, Island Place, 500 King's Road, North Point, H.K.",
+        "lat": "22.291265",
+        "lng": "114.202467",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2291",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/288_2_7O8iKtv.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60288"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "114",
+        "code": "60175",
+        "name": "Kornhill Plaza",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__QUARRY_BAY",
+        "address": "Shop Nos. S32-S36, 2/F, Kornhill Plaza (North),1 Kornhill Road, H.K.",
+        "lat": "22.284940",
+        "lng": "114.216298",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2227",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/M-175_2_UEAq7LK.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60175"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "126",
+        "code": "60197",
+        "name": "Hing Tung Shopping Centre, Shau Kei Wan",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__SHAU_KEI_WAN",
+        "address": "Shop No. 104, 1/F., Hing Tung Shopping Centre, Hong Kong",
+        "lat": "22.280595",
+        "lng": "114.220077",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2226",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/M-197_2_6yIGgh9.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60197"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "212",
+        "code": "60303",
+        "name": "Commercial Development of OP Mall",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSUEN_WAN",
+        "address": "Shop Nos. 3001 & 3006, 3/F, Commercial Development of OP Mall, Tsuen Wan, N.T.",
+        "lat": "22.368272",
+        "lng": "114.110062",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2304",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/303_2_9xrL8BF.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60303"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "202",
+        "code": "60292",
+        "name": "Cheung Sha Wan Plaza.",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__CHEUNG_SHA_WAN",
+        "address": "Unit G09C, G/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road, Kowloon",
+        "lat": "22.336896",
+        "lng": "114.147982",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2292",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/292_2_8g72jHO.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60292"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "215",
+        "code": "60306",
+        "name": "Belgian Bank Building",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__MONG_KOK",
+        "address": "Portion of G/F & Basement, The Belgian Bank Building, Nos. 721, 723 and 725 Nathan Road, Mongkok, Kowloon",
+        "lat": "22.321114",
+        "lng": "114.168808",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2312",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/306_2_aw1d82O_XL4up3F.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60306"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "216",
+        "code": "60307",
+        "name": "Greenwich Centre, Fortress Hill",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__NORTH_POINT",
+        "address": "Shop No. 23, G/F, Greenwich Centre, Nos. 252-264 King's Road, Fortress Hill, Hong Kong",
+        "lat": "22.289031",
+        "lng": "114.194516",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2305",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/307_2_tojTk3Y.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60307"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "228",
+        "code": "60310",
+        "name": "Sai Yeung Choi Street South",
+        "category": "KOWLOON",
+        "subcategory": "KOWLOON__MONG_KOK",
+        "address": "Entrance on G/F and B/F, 6-12A Sai Yeung Choi Street South, Mong Kok, Kowloon",
+        "lat": "22.316956",
+        "lng": "114.170669",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2715",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/310A_PqksqoP.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60310"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "106",
+        "code": "60164",
+        "name": "Lei King Wan, Sai Wan Ho",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__SAI_WAN_HO",
+        "address": "Shop Nos. GD23-26, G/F, 25 Tai On Street, Lei King Wan, H.K.",
+        "lat": "22.283173",
+        "lng": "114.223184",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2211",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/M-164_2_5QE4xKe.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60164"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "113",
+        "code": "60172",
+        "name": "Hing Wah Plaza, Chai Wan",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__CHAI_WAN",
+        "address": "Shop No. 113, 1/F, Hing Wah Plaza,Chai Wan, Hong Kong",
+        "lat": "22.262909",
+        "lng": "114.235900",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2228",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/M-172_2_aDmoER8.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60172"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "143",
+        "code": "60222",
+        "name": "Island Resort Mall, Siu Sai Wan",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__CHAI_WAN",
+        "address": "Shop No. 11, 1/F, Island Resort Mall, 28 Siu Sai Wan Rod, Siu Sai Wan, Hong Kong",
+        "lat": "22.265888",
+        "lng": "114.250702",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2244",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/M-222_2_FadOLPq.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60222"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "163",
+        "code": "60246",
+        "name": "King's Road, Quarry Bay",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__QUARRY_BAY",
+        "address": "1/F (Portion), King's House, No. 971 King's Road, Quarry Bay, H.K.",
+        "lat": "22.287754",
+        "lng": "114.210379",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2270",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/M-2461_PU9OFdu.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60246"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "167",
+        "code": "60251",
+        "name": "333 Shau Kei Wan Road",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__SHAU_KEI_WAN",
+        "address": "Shop No. 1, G/F, H21, No. 333 Shau Kei Wan Road, Shau Kei Wan, Hong Kong",
+        "lat": "22.278009",
+        "lng": "114.226912",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2269",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/M-251_2_NxZaIQn.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60251"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "200",
+        "code": "60290",
+        "name": "Wan Tsui Shopping Centre, Chai Wan",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__CHAI_WAN",
+        "address": "Shop No. 204, 2/F, Wan Tsui Shopping Centre, Wan Tsui Estate, No. 2 Wah Ha Street, Chai Wan, H.K.",
+        "lat": "22.262779",
+        "lng": "114.237666",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2300",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/M-290_2_KFYCubB.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60290"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "141",
+        "code": "60220",
+        "name": "Citylink Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop Unit. 14, Citylink Plaza, No. 1 Shatin Station Circuit, Shatin, N.T.",
+        "lat": "22.382763",
+        "lng": "114.187635",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2243",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/P-220_2_U5G13L2.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60220"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "150",
+        "code": "60234",
+        "name": "Shatin Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop No. 56, Level 3, Shatin Plaza, Shatin, N.T.",
+        "lat": "22.383630",
+        "lng": "114.189492",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2371",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/234_store_photo.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60234"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "151",
+        "code": "60235",
+        "name": "Lek Yuen Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop No. C213B, Upper Shopping Level Floor, Lek Yuen Plaza, Lek Yuen Estate, 6 Lek Yuen Street, Shatin, N.T.",
+        "lat": "22.384617",
+        "lng": "114.191291",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2255",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/P-235_2_2ORjdvf.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60235"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "179",
+        "code": "60267",
+        "name": "No. 3 On Kwan Street",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop Nos. G40, G41 and G42, G/F, No. 3 On Kwan Street, Shek Mun, Shatin, N.T.",
+        "lat": "22.388114",
+        "lng": "114.207677",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2372",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/267.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60267"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "156",
+        "code": "60240",
+        "name": "Sha Kok Estate",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop No. 240, Second Floor, Commercial/Carpark Block, Sha Kok Estate, 5 Sha Kok Street, Shatin, New Territories",
+        "lat": "22.377775",
+        "lng": "114.193826",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2325",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/P-2401.JPG_whxG1ze.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60240"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "195",
+        "code": "60284",
+        "name": "Fu Shin Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TAI_PO",
+        "address": "Shop No. S202, 2/F, Fu Shin Shopping Centre, Fu Shin Estate, No. 12 On Po Road, Tai Po, N.T.",
+        "lat": "22.454076",
+        "lng": "114.174693",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2299",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/P-2841.JPG_EEgoHlP.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60284"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "218",
+        "code": "60309",
+        "name": "Sui Wo Commercial Centre, Shatin",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__FO_TAN",
+        "address": "Shop No. G01B, G/F, Sui Wo Commercial Centre, Sui Wo Court, Shatin, N.T.",
+        "lat": "22.392004",
+        "lng": "114.194469",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2373",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/309.JPG"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60309"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "86",
+        "code": "60072",
+        "name": "Tai Wai Station",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TAI_WAI",
+        "address": "Shop TAW 45, MTR Tai Wai Station, Shatin, N.T.",
+        "lat": "22.372846",
+        "lng": "114.178011",
+        "image": {
+            "__typename": "ImageType",
+            "id": "3086",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/072.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60072"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "174",
+        "code": "60260",
+        "name": "The Waterside, Ma On Shan",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__MA_ON_SHAN",
+        "address": "Shop No. R1, G/F, The Commercial Development of the Waterside, No. 15 On Chun Street, Ma On Shan, Shatin, N.T.",
+        "lat": "22.425004",
+        "lng": "114.228088",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2320",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/Y-260_2_GRDPgLI.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60260"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "178",
+        "code": "60266",
+        "name": "First Floor of Chevalier Garden",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__MA_ON_SHAN",
+        "address": "Portion A of Restaurant Site on the First Floor of Chevalier Garden, No. 2 Hang Shun Street, Shatin, N.T.",
+        "lat": "22.405103",
+        "lng": "114.223567",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2284",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/Y-266_2_yXLcpgi.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60266"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "180",
+        "code": "60268",
+        "name": "Lung Hang Shopping Centre",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TAI_WAI",
+        "address": "Shop No. 201, Level 3, Lung Hang Shopping Centre, Lung Hang Estate, 1 Tin Sam Street, Shatin, N.T.",
+        "lat": "22.368179",
+        "lng": "114.180185",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2283",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/Y-268_2_2VH8lZF.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60268"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "182",
+        "code": "60270",
+        "name": "Shui Chuen O Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop No. 111, 1/F, Shui Chuen O Plaza, Shui Chuen O Estate, Shatin, N.T.",
+        "lat": "22.374020",
+        "lng": "114.197050",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2319",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/Y-270_2_NQ5tGxO.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60270"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "196",
+        "code": "60285",
+        "name": "Pok Hong Shopping Centre, Sha Tin",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__SHA_TIN",
+        "address": "Shop 1, Pok Hong Shopping Centre, Pok Hong Estate, Shatin, N.T.",
+        "lat": "22.375402",
+        "lng": "114.192965",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2298",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/Y-285_2_7JSduqj.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60285"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "197",
+        "code": "60287",
+        "name": "Ma On Shan Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__MA_ON_SHAN",
+        "address": "Shop No. 336, Level 3, Ma On Shan Plaza, No. 608 Sai Sha Road, Ma On Shan, N.T.",
+        "lat": "22.425565",
+        "lng": "114.231203",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2297",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/Y-287_2_Ai6CKnC.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60287"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "211",
+        "code": "60302",
+        "name": "Double Cove Place",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__MA_ON_SHAN",
+        "address": "Shop No. 6A, G/F, Double Cove Place, No. 8 Wu Kai Sha Road, Ma On Shan, Shatin, N.T.",
+        "lat": "22.430029",
+        "lng": "114.243251",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2367",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/Y-3021_Resize.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60302"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "82",
+        "code": "60032",
+        "name": "Shui Che Kwun Street, Yuen Long",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__YUEN_LONG",
+        "address": "Portion of G/F & 1/F., Winland Building, Shui Che Kwun Street, YLTL 453, Yuen Long, New Territories",
+        "lat": "22.445093",
+        "lng": "114.030144",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2190",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/B-32-11_wi8j7gZ.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60032"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "98",
+        "code": "60125",
+        "name": "Verbena Heights",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSEUNG_KWAN_O",
+        "address": "Shop 8, Block 2 & Shop 9 Block 3, G/F., Verbena Heights, Tseung Kwan O, N.T.",
+        "lat": "22.322169",
+        "lng": "114.256170",
+        "image": {
+            "__typename": "ImageType",
+            "id": "2209",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/G-1251_wtUmEYt.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60125"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "234",
+        "code": "60319",
+        "name": "Trend Plaza",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TUEN_MUN",
+        "address": "Shop No. 30, 2/F, North Wing, Trend Plaza, Tuen Mun, N.T.",
+        "lat": "22.393370",
+        "lng": "113.975670",
+        "image": {
+            "__typename": "ImageType",
+            "id": "3664",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/319.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60319"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "235",
+        "code": "60320",
+        "name": "The Rockpool",
+        "category": "HONG_KONG_ISLAND",
+        "subcategory": "HONG_KONG_ISLAND__SAI_WAN",
+        "address": "Shop No. 101, 1/F, The Rockpool, Nos. 402&404 Des Voeux Road West, Hong Kong",
+        "lat": "22.286800",
+        "lng": "114.136750",
+        "image": {
+            "__typename": "ImageType",
+            "id": "3675",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/320a.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60320"
+    },
+    {
+        "__typename": "InternalStoreType",
+        "id": "119",
+        "code": "60182",
+        "name": "Metro Town",
+        "category": "NEW_TERRITORIES",
+        "subcategory": "NEW_TERRITORIES__TSEUNG_KWAN_O",
+        "address": "Shop No. R02 on Second Level of the Commercial Development of Metro Town, Tseung Kwan O of Lot. No. 73, Tseung Kwan O, N.T.",
+        "lat": "22.304649",
+        "lng": "114.252705",
+        "image": {
+            "__typename": "ImageType",
+            "id": "3710",
+            "url": "https://assets.fairwood.com.hk/assets/public/images/182_new_.jpg"
+        },
+        "orderingLink": "https://fairwood.order.place/crm/brand/600001/home?storeId=60182"
+    }
+]

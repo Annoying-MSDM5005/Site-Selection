@@ -1,0 +1,2522 @@
+[
+    {
+        "lat": 22.3185296,
+        "lng": 114.1690628,
+        "telephone": "\u00a035144562",
+        "title": "MPM",
+        "distance": 0.4,
+        "address": "SHOP A, 1\/F, MANDARIN PLAZA MONGKOK, NO.11 NELSON STREET AND NOS.240-244 PORTLAND STREET , MONG KOK, KOWLOON",
+        "tooltips": "MPM",
+        "terms": []
+    },
+    {
+        "lat": 22.3285899,
+        "lng": 114.1602846,
+        "telephone": "25595727",
+        "title": "Hoi Tat ",
+        "distance": 0.7,
+        "address": "Shop No. 1-03, P1\/F, Hoi Tat Estate (Phase 3), Sham Shui Po, Kowloon",
+        "tooltips": "Hoi Tat ",
+        "terms": []
+    },
+    {
+        "lat": 22.3351567,
+        "lng": 114.1673695,
+        "telephone": "29157338",
+        "title": "Pak Tin",
+        "distance": 1.1,
+        "address": "Shop No. LG403, LG4\/F, Pak Tin Commercial Centre, Pak Tin Estate Phases 7 & 8, Sham Shui Po, Kowloon \r\n",
+        "tooltips": "Pak Tin",
+        "terms": []
+    },
+    {
+        "lat": 22.296064,
+        "lng": 114.1686564,
+        "telephone": "37047246",
+        "title": "Harbour City",
+        "distance": 1.6,
+        "address": "Shop 4002, Level 4, Gateway Arcade, Kowloon",
+        "tooltips": "Harbour City",
+        "terms": []
+    },
+    {
+        "lat": 22.3143219,
+        "lng": 114.1631178,
+        "telephone": "21756362",
+        "title": "Charming Garden",
+        "distance": 0.3,
+        "address": "Shop No. 66A, G\/F , Mongko West New Reclamation Zone 20 ,Charming Garden, Kowloon",
+        "tooltips": "Charming Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.3656637,
+        "lng": 114.1391977,
+        "telephone": "27165238",
+        "title": "Shek Lei",
+        "distance": 3.6,
+        "address": "Shop Nos.B013-B016, G\/F, Shek Lei Shopping Centre (Phase2), Shek Lei Estate, No. 110 Tai Loong Street, Kwai Chung, New Territories",
+        "tooltips": "Shek Lei",
+        "terms": []
+    },
+    {
+        "lat": 22.2878725,
+        "lng": 114.2114186,
+        "telephone": "25629360",
+        "title": "Hoi Wan Sheet",
+        "distance": 3.8,
+        "address": "Shop11, 12 &13 , G\/F, Ka Wing Building, 4-6 Hoi Wan Sheet, Quarry Bay, Hong Kong",
+        "tooltips": "Hoi Wan Sheet",
+        "terms": []
+    },
+    {
+        "lat": 22.3256853,
+        "lng": 114.1646041,
+        "telephone": "23906570",
+        "title": "Prosperity Court",
+        "distance": 0.4,
+        "address": "Shop 1, G\/F, Prosperity Court, 150-174 Lai Chi Kok Road, Kowloon",
+        "tooltips": "Prosperity Court",
+        "terms": []
+    },
+    {
+        "lat": 22.3817578,
+        "lng": 114.1886372,
+        "telephone": "26339282",
+        "title": "New Town Plaza",
+        "distance": 4.6,
+        "address": "Shop Nos. 222-223, Level 2 , New Town Plaza Phase I, Sha Tin Centre Street, Sha Tin, New Territories\r\n",
+        "tooltips": "New Town Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3212893,
+        "lng": 114.1703633,
+        "telephone": "23934246",
+        "title": "Mongkok Road",
+        "distance": 0.5,
+        "address": "Shop No. F G\/F & 1\/F, Po On Building, 30-36 Mongkok Road, Mong Kok, Kowloon",
+        "tooltips": "Mongkok Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3107703,
+        "lng": 114.1679481,
+        "telephone": "27809361",
+        "title": "Prosperous Garden",
+        "distance": 0.7,
+        "address": "Shop G2, Cinema Block, Prosperous Garden, No.3 Public Square Street, Yau Ma Tei, Kowloon",
+        "tooltips": "Prosperous Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.3285734,
+        "lng": 114.158868,
+        "telephone": "21424961",
+        "title": "Fu Cheong Estate",
+        "distance": 0.7,
+        "address": "Shop No. 128 & 129, 1\/F, Fu Cheong Shopping Centre, Sham Shui Po, Kowloon",
+        "tooltips": "Fu Cheong Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3167109,
+        "lng": 114.1738234,
+        "telephone": "27701243",
+        "title": "Waterloo Road",
+        "distance": 0.7,
+        "address": "G\/F, M\/F, 1\/F, Parkland House, 57-59 Waterloo Road, Kowloon",
+        "tooltips": "Waterloo Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3299423,
+        "lng": 114.1626301,
+        "telephone": "23864460",
+        "title": "Apliu Street",
+        "distance": 0.7,
+        "address": "Flats A-F, M\/F, New Pei Ho Building, 104 Pei Ho Street, Sham Shui Po, Kowloon (This restaurant opens 24 hours on Friday, Saturday & Eve of Public Holidays only)",
+        "tooltips": "Apliu Street",
+        "terms": []
+    },
+    {
+        "lat": 22.3301485,
+        "lng": 114.1662993,
+        "telephone": "27884876",
+        "title": "Tai Po Road",
+        "distance": 0.8,
+        "address": "G\/F, Hong Po Bldg., Nos. 132-134 Tai Po Road, Sham Shui Po, Kowloon",
+        "tooltips": "Tai Po Road",
+        "terms": []
+    },
+    {
+        "lat": 22.4290682,
+        "lng": 114.2085857,
+        "telephone": "3709 8358",
+        "title": "Science Park ",
+        "distance": 8.1,
+        "address": "Units S037 - S039, G\/F 8W, Phase II, Hong Kong Science Park, Pak Shek Kok, New Territories\r\n",
+        "tooltips": "Science Park ",
+        "terms": []
+    },
+    {
+        "lat": 22.304306,
+        "lng": 114.161475,
+        "telephone": "23750161",
+        "title": "Kowloon Station",
+        "distance": 1,
+        "address": "KOW 12b, AEL Arrival Concourse, Kowloon Station, Kowloon",
+        "tooltips": "Kowloon Station",
+        "terms": []
+    },
+    {
+        "lat": 22.3162153,
+        "lng": 114.1817967,
+        "telephone": "22420462",
+        "title": "Homantin Plaza",
+        "distance": 1.2,
+        "address": "Shop No.319, 3\/F, Homantin Plaza, Ho Man Tin, Kowloon",
+        "tooltips": "Homantin Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.5039957,
+        "lng": 114.1547464,
+        "telephone": "26872223",
+        "title": "Queen's Hill",
+        "distance": 12.8,
+        "address": "Shop No 11, G\/F, Queens Hills Shopping Centre, Queens Hill Estate, Fanling, NT.",
+        "tooltips": "Queen's Hill",
+        "terms": []
+    },
+    {
+        "lat": 22.3341562,
+        "lng": 114.1496735,
+        "telephone": "22649052",
+        "title": "Pacifica Mall",
+        "distance": 1.3,
+        "address": "Shop Nos. 13A, 15 & 16, 2\/F The Pacifica Mall, 9 Sham Shing Road, Lai Chi Kok, Kowloon",
+        "tooltips": "Pacifica Mall",
+        "terms": []
+    },
+    {
+        "lat": 22.2918302,
+        "lng": 113.9492322,
+        "telephone": "28667995",
+        "title": "Caribbean Square",
+        "distance": 13.8,
+        "address": "Shop Nos. 29-30, The Podium First Floor, Caribbean Square, Caribbean Coast, No. 1 Kin Tung Road, Tung Chung, Lantau Island",
+        "tooltips": "Caribbean Square",
+        "terms": []
+    },
+    {
+        "lat": 22.319882,
+        "lng": 114.165716,
+        "telephone": "23936918",
+        "title": "Metro Regalia",
+        "distance": 0.2,
+        "address": "Shop F-H, G\/F & 1\/F, Metro Regalia, 51 Tong Mi Road, Tai Kok Tsui, Kowloon",
+        "tooltips": "Metro Regalia",
+        "terms": []
+    },
+    {
+        "lat": 22.3251541,
+        "lng": 114.187594,
+        "telephone": "27121185",
+        "title": "Chun Seen Mei Chuen",
+        "distance": 1.6,
+        "address": "G\/F, No.5, 7 & 9, Fu Ning Street, Chun Seen Mei Chuen, To Kwa Wan, Kowloon",
+        "tooltips": "Chun Seen Mei Chuen",
+        "terms": []
+    },
+    {
+        "lat": 22.3212706,
+        "lng": 114.1616315,
+        "telephone": "23911830",
+        "title": "Tai Kok Tsui Road",
+        "distance": 0.2,
+        "address": "G\/F, Tai Fong Building, Cosmopolitan Estate, 97-105 Tai Kok Tsui Road, Tai Kok Tsui, Kowloon",
+        "tooltips": "Tai Kok Tsui Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3172044,
+        "lng": 114.1619682,
+        "telephone": "27404145",
+        "title": "Olympian City Two",
+        "distance": 0.2,
+        "address": "Shop Nos. G40-G42, G\/Fon Ground Floor , Olympian City 2, Olympian City, Kowloon",
+        "tooltips": "Olympian City Two",
+        "terms": []
+    },
+    {
+        "lat": 22.3053679,
+        "lng": 114.1860381,
+        "telephone": "23622034",
+        "title": "Hunghom Bay Centre",
+        "distance": 1.7,
+        "address": "Shop 8, G\/F, Hunghom Bay Centre, Hung Hom, Kowloon",
+        "tooltips": "Hunghom Bay Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.335967,
+        "lng": 114.141406,
+        "telephone": "21483022",
+        "title": "Mei Foo Plaza",
+        "distance": 1.8,
+        "address": "Shop Nos. G03, G\/F, and 119, 1\/F., Mei Foo Plaza, Mei Foo Sun Chuen, Kowloon",
+        "tooltips": "Mei Foo Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.328105,
+        "lng": 114.190709,
+        "telephone": "27162678",
+        "title": "Prince Ritz",
+        "distance": 1.9,
+        "address": "Shops 1-3, 5, G\/F, Prince Ritz, 448 Prince Edward Road West, Kowloon City, Kowloon",
+        "tooltips": "Prince Ritz",
+        "terms": []
+    },
+    {
+        "lat": 22.3088208,
+        "lng": 114.1910993,
+        "telephone": "27749631",
+        "title": "Laguna Verde",
+        "distance": 1.9,
+        "address": "Shop UG30-32, Upper G\/F, Fisherman's Wharf, 8 Laguna Verde Avenue, Hung Hom, Kowloon",
+        "tooltips": "Laguna Verde",
+        "terms": []
+    },
+    {
+        "lat": 22.2878936,
+        "lng": 114.1520234,
+        "telephone": "29758367",
+        "title": "Shun Tak Centre",
+        "distance": 2.3,
+        "address": "Shop No. 267, 2\/F Shun Tak Centre, 200 Connaught Road, Central, Hong Kong",
+        "tooltips": "Shun Tak Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3412668,
+        "lng": 114.1950937,
+        "telephone": "23221565",
+        "title": "Temple Mall South",
+        "distance": 2.5,
+        "address": "Shop No. 123, 1\/F,Temple Mall South,  Wong Tai Sin, Kowloon",
+        "tooltips": "Temple Mall South",
+        "terms": []
+    },
+    {
+        "lat": 22.2818833,
+        "lng": 114.151065,
+        "telephone": "29152623",
+        "title": "Castle Road",
+        "distance": 2.7,
+        "address": "Lower G\/F, No.3 & 3A Castle Road, Central, Hong Kong",
+        "tooltips": "Castle Road",
+        "terms": []
+    },
+    {
+        "lat": 22.2849001,
+        "lng": 114.1413111,
+        "telephone": "25461671",
+        "title": "Bonham Road",
+        "distance": 2.8,
+        "address": "G\/F & LG\/F, Good View Court, No. 51-53 Bonham Road, Western, Hong Kong",
+        "tooltips": "Bonham Road",
+        "terms": []
+    },
+    {
+        "lat": 22.2793623,
+        "lng": 114.1649799,
+        "telephone": "25201329",
+        "title": "Admiralty Centre",
+        "distance": 2.8,
+        "address": "Shop Nos. 1-41, G\/F, Admiralty Centre, 18 Harcourt Road, Admiralty, Hong Kong",
+        "tooltips": "Admiralty Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.340554,
+        "lng": 114.2021768,
+        "telephone": "29555187",
+        "title": "Plaza Hollywood",
+        "distance": 2.9,
+        "address": "Shops 216, Level 2, Plaza Hollywood, Diamond Hill, Kowloon",
+        "tooltips": "Plaza Hollywood",
+        "terms": []
+    },
+    {
+        "lat": 22.330652,
+        "lng": 114.206785,
+        "telephone": "27590623",
+        "title": "Richland Gardens",
+        "distance": 2.9,
+        "address": "Unit 218-1, Richland Gardens Commercial & Garage Block, 80 Wang Kwong Road, Kowloon Bay, Kowloon",
+        "tooltips": "Richland Gardens",
+        "terms": []
+    },
+    {
+        "lat": 22.278259,
+        "lng": 114.172151,
+        "telephone": "28277537",
+        "title": "Lockhart Road",
+        "distance": 2.9,
+        "address": "2\/F, 151 Lockhart Road, Wanchai, Hong Kong",
+        "tooltips": "Lockhart Road",
+        "terms": []
+    },
+    {
+        "lat": 22.2762612,
+        "lng": 114.1721049,
+        "telephone": "25298273",
+        "title": "The Johnston",
+        "distance": 3,
+        "address": "G\/F & Basement Level, The Johnston, 74-80 Johnston Road, Wanchai, Hong Kong",
+        "tooltips": "The Johnston",
+        "terms": []
+    },
+    {
+        "lat": 22.284968,
+        "lng": 114.1332523,
+        "telephone": "25427361",
+        "title": "The Westwood",
+        "distance": 3.1,
+        "address": "Shop LG07, LG\/F, The Westwood, 8 Belcher's Street, Hong Kong",
+        "tooltips": "The Westwood",
+        "terms": []
+    },
+    {
+        "lat": 22.2837975,
+        "lng": 114.1924124,
+        "telephone": "28070258",
+        "title": "King's Commercial Centre",
+        "distance": 3.1,
+        "address": "G\/F & 1\/Floor, King's Commercial Centre, 25-27 King's Road, North Point, Hong Kong",
+        "tooltips": "King's Commercial Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3635027,
+        "lng": 114.1720137,
+        "telephone": "26813221",
+        "title": "Hin Keng Estate",
+        "distance": 3.1,
+        "address": "Shop No. 301B, 3\/F, Hin Keng Shopping Centre (Wing A) Hin Keng Estate, Shatin, N.T.",
+        "tooltips": "Hin Keng Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3482388,
+        "lng": 114.2005514,
+        "telephone": "21947428",
+        "title": "Tsz Wan Shan Shopping Centre",
+        "distance": 3.1,
+        "address": "Shop No.333, Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tsz Wan Shan, Kowloon",
+        "tooltips": "Tsz Wan Shan Shopping Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.2918344,
+        "lng": 114.2060878,
+        "telephone": "25639482",
+        "title": "Healthy Village",
+        "distance": 3.3,
+        "address": "Shop C, G\/F, Phase I, Healthy Village, No.194 Tsat Tsz Mui Road, North Point, Hong Kong",
+        "tooltips": "Healthy Village",
+        "terms": []
+    },
+    {
+        "lat": 22.3244614,
+        "lng": 114.2163021,
+        "telephone": "27986967",
+        "title": "Amoy Plaza",
+        "distance": 3.4,
+        "address": "Shop Nos. G246-253, G\/F, Amoy Plaza Phase II, 77 Ngau Tau Kok Road, Kowloon",
+        "tooltips": "Amoy Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.27227,
+        "lng": 114.1807094,
+        "telephone": "29667266",
+        "title": "Happy Valley Racecourse",
+        "distance": 3.4,
+        "address": "G\/F, Public Stand Two, Happy Valley Racecourse, Hong Kong",
+        "tooltips": "Happy Valley Racecourse",
+        "terms": []
+    },
+    {
+        "lat": 22.3146929,
+        "lng": 114.2195682,
+        "telephone": "22671638",
+        "title": "Millennium City",
+        "distance": 3.6,
+        "address": "Unit 1A, G\/F., Millennium City, 388 Kwun Tong Road, Kwun Tong, Kowloon",
+        "tooltips": "Millennium City",
+        "terms": []
+    },
+    {
+        "lat": 22.3217722,
+        "lng": 114.2198737,
+        "telephone": "23051384",
+        "title": "Lok Wah Estate",
+        "distance": 3.6,
+        "address": "Shop No. 310, Lok Wah Commercial Centre, Lok Wah Estate, Ngau Tau Kok, Kowloon",
+        "tooltips": "Lok Wah Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3634404,
+        "lng": 114.1325556,
+        "telephone": "24229256",
+        "title": "Kwai Cheong Road",
+        "distance": 3.6,
+        "address": "Shop 1, 1\/F, Millennium Trade Centre, 56 Kwai Cheong Road, Kwai Chung, N.T.",
+        "tooltips": "Kwai Cheong Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3693641,
+        "lng": 114.1812707,
+        "telephone": "26911851",
+        "title": "Sun Chui Estate",
+        "distance": 3.6,
+        "address": "Shop No.1B, G\/F Sun Chui Shopping Centre, Sun Chui Estate, Tai Wai, N.T.",
+        "tooltips": "Sun Chui Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3221308,
+        "lng": 114.1684822,
+        "telephone": "23802850",
+        "title": "Carprio Mansion",
+        "distance": 0.4,
+        "address": "G\/F & 1\/F, Carprio Mansion, 1 Lai Chi Kwok Road, Mong Kok, Kowloon",
+        "tooltips": "Carprio Mansion",
+        "terms": []
+    },
+    {
+        "lat": 22.3641144,
+        "lng": 114.1270786,
+        "telephone": "29449196",
+        "title": "Kwai Shing East Estate",
+        "distance": 3.9,
+        "address": "Shop No.105, 1\/F., Kwai Shing East Shopping Centre, Kwai Shing East Estate, Kwai Chung, N.T.",
+        "tooltips": "Kwai Shing East Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3715263,
+        "lng": 114.1385792,
+        "telephone": "22760880",
+        "title": "Shek Yam Estate",
+        "distance": 3.9,
+        "address": "Shop Nos. LG213 & LG214, LG2\/F, Shek Yam Shopping Centre, Shek Yam Estate, Kwai Chung, N.T.",
+        "tooltips": "Shek Yam Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3532263,
+        "lng": 114.10909,
+        "telephone": "24358772",
+        "title": "Greenfield Garden",
+        "distance": 4.2,
+        "address": "Shop No. G2, G\/F, Greenfield Shopping Arcade, Fung Shue Wo Road, Tsing Yi, N.T.",
+        "tooltips": "Greenfield Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.3101991,
+        "lng": 114.2287405,
+        "telephone": "31940307",
+        "title": "Lei Yue Mun Plaza",
+        "distance": 4.2,
+        "address": "Shop No. 201, 2\/F, Lei Yue Mun Plaza, Yau Tong, Kowloon",
+        "tooltips": "Lei Yue Mun Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3165412,
+        "lng": 114.2296358,
+        "telephone": "22646215",
+        "title": "Tsui Ping Estate",
+        "distance": 4.2,
+        "address": "Shop No.5, Ground Floor, Tsui Ping Shopping Circuit, Tsui Ping Estate, Kwun Tong, Kowloon",
+        "tooltips": "Tsui Ping Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.350027,
+        "lng": 114.105611,
+        "telephone": "21466914",
+        "title": "Cheung Hong Estate",
+        "distance": 4.3,
+        "address": "Shop No. 101, G\/F, Cheung Hong Commercial Complex, No.1 Cheung Hong Estate, Tsing Yi, N.T.",
+        "tooltips": "Cheung Hong Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.375568,
+        "lng": 114.136128,
+        "telephone": "24156879",
+        "title": "Shek Wai Kok Estate",
+        "distance": 4.3,
+        "address": "Shop No. 324, Podium Level, Shek Wai Kok Shopping Centre, Shek Wai Kwok Estate, Tsuen Wan, N.T.",
+        "tooltips": "Shek Wai Kok Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3194881,
+        "lng": 114.2319161,
+        "telephone": "23548506",
+        "title": "Sau Mau Ping Estate",
+        "distance": 4.4,
+        "address": "Shop No. 1, G\/F, Sau Mau Ping Shopping Centre, Sau Mau Ping Estate, Kwun Tong, Kowloon",
+        "tooltips": "Sau Mau Ping Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3754592,
+        "lng": 114.1956878,
+        "telephone": "21445203",
+        "title": "Pok Hong Estate",
+        "distance": 4.4,
+        "address": "Shop No.210, Level 2, Pok Hong Shopping Centre, Pok Hong Estate, Shatin, N.T.",
+        "tooltips": "Pok Hong Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3173731,
+        "lng": 114.1700381,
+        "telephone": "23842728",
+        "title": "Good Hope Building",
+        "distance": 0.5,
+        "address": "G\/F & Basement, Good Hope Bldg., 612-618 Nathan Road, Kowloon",
+        "tooltips": "Good Hope Building",
+        "terms": []
+    },
+    {
+        "lat": 22.2560275,
+        "lng": 114.1388493,
+        "telephone": "28753720",
+        "title": "Chi Fu Landmark",
+        "distance": 4.6,
+        "address": "Unit 426-432, Level 4, Chi Fu Landmark, Pokfulam, Hong Kong",
+        "tooltips": "Chi Fu Landmark",
+        "terms": []
+    },
+    {
+        "lat": 22.3729004,
+        "lng": 114.1191563,
+        "telephone": "24022527",
+        "title": "Luk Yeung Galleria",
+        "distance": 4.7,
+        "address": "Shop Units S1-2, 2\/F, Luk Yeung Galleria, Tsuen Wan, N.T.",
+        "tooltips": "Luk Yeung Galleria",
+        "terms": []
+    },
+    {
+        "lat": 22.3082273,
+        "lng": 114.2351489,
+        "telephone": "27178546",
+        "title": "Tak Tin Estate",
+        "distance": 4.7,
+        "address": "Shop No. 104A, 1\/F, Tak Tin Shopping Centre, Lam Tin, Kowloon",
+        "tooltips": "Tak Tin Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.317468,
+        "lng": 114.2364229,
+        "telephone": "21904206",
+        "title": "Po Tat Estate",
+        "distance": 4.7,
+        "address": "Shop No. 206, 2\/F, Po Tat Shopping Centre, Po Tat Estate, Kwun Tong, Kowloon",
+        "tooltips": "Po Tat Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3738014,
+        "lng": 114.1163447,
+        "telephone": "24111531",
+        "title": "Nan Fung Centre",
+        "distance": 4.8,
+        "address": "Shop No.301 3\/F, Nan Fung Centre, Nos. 264-298 Castle Peak Road, Tsuen Wan, N.T.",
+        "tooltips": "Nan Fung Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3248281,
+        "lng": 114.1679857,
+        "telephone": "23917608",
+        "title": "Newish Mansion",
+        "distance": 0.5,
+        "address": "Basement & G\/F, Newish Mansion, 763-767 Nathan Road, Mong Kok, Kowloon",
+        "tooltips": "Newish Mansion",
+        "terms": []
+    },
+    {
+        "lat": 22.2808612,
+        "lng": 114.2277794,
+        "telephone": "25604242",
+        "title": "Oi Tung Estate",
+        "distance": 4.9,
+        "address": "Shop 11, G\/F, Oi Tung Shopping Centre, Oi Tung Estate, Aldrich Bay, Hong Kong",
+        "tooltips": "Oi Tung Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.2782074,
+        "lng": 114.2259063,
+        "telephone": "28849853",
+        "title": "Nam Hong Street",
+        "distance": 4.9,
+        "address": "Shop No.4, LG\/F, Hong Wah Mansion, 18 Nam Hong Street, Shau Kei Wan, Hong Kong",
+        "tooltips": "Nam Hong Street",
+        "terms": []
+    },
+    {
+        "lat": 22.2493714,
+        "lng": 114.1487427,
+        "telephone": "25802816",
+        "title": "Tin Wan",
+        "distance": 4.9,
+        "address": "Shop Nos. 1 & 2, G\/F Silver Mansion, 81 Shek Pai Wan Road, Aberdeen, Hong Kong",
+        "tooltips": "Tin Wan",
+        "terms": []
+    },
+    {
+        "lat": 22.2525,
+        "lng": 114.1363889,
+        "telephone": "25518135",
+        "title": "Wah Fu Estate",
+        "distance": 4.9,
+        "address": "Shop No. 1A, Wah Fu (I) Shopping Centre, Wah Fu (I) Estate, Southern, Hong Kong",
+        "tooltips": "Wah Fu Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3821357,
+        "lng": 114.2051279,
+        "telephone": "22780155",
+        "title": "Yu Chui Court",
+        "distance": 5.1,
+        "address": "Shop 101, 1\/F, Yu Chui Shopping Centre, Yu Chui Court, Siu Lek Yuen, Shatin, N.T.",
+        "tooltips": "Yu Chui Court",
+        "terms": []
+    },
+    {
+        "lat": 22.3198556,
+        "lng": 114.171317,
+        "telephone": "26886755",
+        "title": "Argyle Street",
+        "distance": 0.5,
+        "address": "G\/F & M\/F, 105 Argyle Street, Mongkok, Kowloon",
+        "tooltips": "Argyle Street",
+        "terms": []
+    },
+    {
+        "lat": 22.3879585,
+        "lng": 114.1952465,
+        "telephone": "26998365",
+        "title": "Wo Che Estate",
+        "distance": 5.2,
+        "address": "Shop Nos. 245-247, 2\/F, Wo Che Shopping Centre, Wo Che Estate, Tak Hau Street, Shatin, N.T.",
+        "tooltips": "Wo Che Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3148953,
+        "lng": 114.1699917,
+        "telephone": "27713890",
+        "title": "Full Win Commercial Centre",
+        "distance": 0.5,
+        "address": "Shop B, G\/F Full Win Commercial Centre, No.569-573A Nathan Road, Yau Ma Tei, Kowloon",
+        "tooltips": "Full Win Commercial Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3808333,
+        "lng": 114.215,
+        "telephone": "26357283",
+        "title": "Kwong Yuen Estate",
+        "distance": 5.4,
+        "address": "Shop No. 13, Level 2, Commercial Block 3, Kwong Yuen Shopping Centre, Kwong Yuen Estate, Shatin, N.T.",
+        "tooltips": "Kwong Yuen Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3785816,
+        "lng": 114.1078291,
+        "telephone": "24055857",
+        "title": "Tsuen Wan Centre",
+        "distance": 5.4,
+        "address": "Shop No.6, G\/F, Tsuen Wan Centre Phase II, 94-98 Tsuen King Circuit, Tsuen Wan, N.T.",
+        "tooltips": "Tsuen Wan Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3226169,
+        "lng": 114.2494009,
+        "telephone": "22094206",
+        "title": "Tsui Lam Estate",
+        "distance": 5.5,
+        "address": "Shop No. 126, Tsui Lam Square, Tsui Lam Estate, Tseung Kwan O, N.T.",
+        "tooltips": "Tsui Lam Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3972442,
+        "lng": 114.1934135,
+        "telephone": "21454123",
+        "title": "Shatin Galleria",
+        "distance": 5.7,
+        "address": "Shop Nos. 1 & 2, G\/F Shatin Galleria, 18-24 Shan Mei Street, Fo Tan, Shatin, N.T.",
+        "tooltips": "Shatin Galleria",
+        "terms": []
+    },
+    {
+        "lat": 22.3060752,
+        "lng": 114.2524067,
+        "telephone": "34095352",
+        "title": "Choi Ming Shopping Centre",
+        "distance": 5.8,
+        "address": "Shop Nos. 271 & 272, Choi Ming Shopping Centre, Choi Ming Court, Tseung Kwan O, N.T.",
+        "tooltips": "Choi Ming Shopping Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3214801,
+        "lng": 114.2561857,
+        "telephone": "29970007",
+        "title": "Verbena Heights",
+        "distance": 5.9,
+        "address": "Shop 1, G\/F, Verbena Heights, 8 Mau Tai Road, Tseung Kwan O, N.T.",
+        "tooltips": "Verbena Heights",
+        "terms": []
+    },
+    {
+        "lat": 22.3250831,
+        "lng": 114.2561675,
+        "telephone": "22464575",
+        "title": "Po Lam Estate",
+        "distance": 6,
+        "address": "Shop No.103, G\/F., Po Lam Shopping Centre, Po Lam Estate, Tseung Kwan O, N.T.",
+        "tooltips": "Po Lam Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.263396,
+        "lng": 114.235071,
+        "telephone": "29769865",
+        "title": "Hing Wah Estate",
+        "distance": 6,
+        "address": "Shop 114, 1\/F, Hing Wah Shopping Centre, Hing Wah Estate, Chai Wan, Hong Kong",
+        "tooltips": "Hing Wah Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3988826,
+        "lng": 114.2012944,
+        "telephone": "26348734",
+        "title": "Plaza Ascot",
+        "distance": 6,
+        "address": "Shop Nos. G83A, G84-G85, G\/F Plaza Ascot, 1 Tsun King Road, Fo Tan, Shatin, N.T.",
+        "tooltips": "Plaza Ascot",
+        "terms": []
+    },
+    {
+        "lat": 22.3233143,
+        "lng": 114.2581878,
+        "telephone": "31945176",
+        "title": "Metro City Plaza II",
+        "distance": 6.1,
+        "address": "Shop No. 1017, Level One, Metro City Plaza II, 8 Yan King Road, Tseung Kwan O, N.T.",
+        "tooltips": "Metro City Plaza II",
+        "terms": []
+    },
+    {
+        "lat": 22.3110182,
+        "lng": 114.2588317,
+        "telephone": "21780769",
+        "title": "Sheung Tak",
+        "distance": 6.1,
+        "address": "Shop No. 216, 2\/F TKO Spot, Sheung Tak Estate, Tseung Kwan O, N.T.",
+        "tooltips": "Sheung Tak",
+        "terms": []
+    },
+    {
+        "lat": 22.4011111,
+        "lng": 114.2052778,
+        "telephone": " 29666866",
+        "title": "Sha Tin Racecourse",
+        "distance": 6.3,
+        "address": "Mezzanine Floor, Grand Stand Two, Shatin Racecourse, N.T.",
+        "tooltips": "Sha Tin Racecourse",
+        "terms": []
+    },
+    {
+        "lat": 22.3148492,
+        "lng": 114.2657023,
+        "telephone": "22744106",
+        "title": "Maritime Bay",
+        "distance": 6.6,
+        "address": "Shop No. 9, G\/F, Maritime Bay Shopping Mall, 18 Pui Shing Road, Tseung Kwan O, N.T.",
+        "tooltips": "Maritime Bay",
+        "terms": []
+    },
+    {
+        "lat": 22.3363998,
+        "lng": 114.2654655,
+        "telephone": "23580271",
+        "title": "The Hong Kong University of Science & Technology",
+        "distance": 6.6,
+        "address": "LG5 Restaurant, Academic Building, HK University of Science & Technology, N.T.",
+        "tooltips": "The Hong Kong University of Science & Technology",
+        "terms": []
+    },
+    {
+        "lat": 22.266226,
+        "lng": 114.2508984,
+        "telephone": "34074142",
+        "title": "Island Resort",
+        "distance": 6.7,
+        "address": "Shop 11B, G\/F, Island Resort Mall, 28 Siu Sai Wan Road, Sui Sai Wan, Hong Kong",
+        "tooltips": "Island Resort",
+        "terms": []
+    },
+    {
+        "lat": 22.3124053,
+        "lng": 114.1709903,
+        "telephone": "23851611",
+        "title": "Nathan Tower",
+        "distance": 0.7,
+        "address": "Shop A & C, G\/F, Nathan Tower, 518-520 Nathan Road, Yau Ma Tei, Kowloon",
+        "tooltips": "Nathan Tower",
+        "terms": []
+    },
+    {
+        "lat": 22.4087594,
+        "lng": 114.2217721,
+        "telephone": "31248656",
+        "title": "Kam Tai Court",
+        "distance": 7.2,
+        "address": "Shop No. 102, 1\/F, Kam Tai Shopping Centre, Ma On Shan, N.T.",
+        "tooltips": "Kam Tai Court",
+        "terms": []
+    },
+    {
+        "lat": 22.417131,
+        "lng": 114.227526,
+        "telephone": "26412931",
+        "title": "Heng On Estate",
+        "distance": 7.9,
+        "address": "Shop Nos. 201A & 202A, 2\/F, Heng On Shopping Centre, Heng On Estate, Ma On Shan, N.T.",
+        "tooltips": "Heng On Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.421869,
+        "lng": 114.226598,
+        "telephone": "26334380",
+        "title": "Chung On Estate",
+        "distance": 8.2,
+        "address": "Shop No.6, G\/F, Chung On Shopping Centre, Chung On Estate, Ma On Shan, N.T.",
+        "tooltips": "Chung On Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.4241633,
+        "lng": 114.2314688,
+        "telephone": "26334460",
+        "title": "Sunshine City Plaza",
+        "distance": 8.5,
+        "address": "Shop No. 2138 on Level 2 of MOSTown, No. 18 On Luk Street, Shatin, New Territories",
+        "tooltips": "Sunshine City Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.443554,
+        "lng": 114.169348,
+        "telephone": "26529900",
+        "title": "Uptown Plaza",
+        "distance": 8.6,
+        "address": "Shop Nos. 083-085, Level 1, Uptown Plaza, 9 Nam Wan Road, Tai Po, N.T.",
+        "tooltips": "Uptown Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3319566,
+        "lng": 114.161469,
+        "telephone": "27284222",
+        "title": "Yen Chow Street",
+        "distance": 0.9,
+        "address": "78-86 Yen Chow Street, Sham Shui Po, Kowloon",
+        "tooltips": "Yen Chow Street",
+        "terms": []
+    },
+    {
+        "lat": 22.4264114,
+        "lng": 114.2409805,
+        "telephone": "26339576",
+        "title": "Lee On Estate",
+        "distance": 8.9,
+        "address": "Shop No. 304, LG3\/F, Lee On Shopping Centre, Lee On Estate, Ma On Shan, N.T.",
+        "tooltips": "Lee On Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.4485664,
+        "lng": 114.1741257,
+        "telephone": "26535348",
+        "title": "Kwong Fuk Estate",
+        "distance": 9,
+        "address": "Shop No. P316, Kwong Fuk Commercial Centre, Kwong Fuk Estate, Tai Po, N.T.",
+        "tooltips": "Kwong Fuk Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.45402,
+        "lng": 114.174652,
+        "telephone": "26670558",
+        "title": "Fu Shin Estate",
+        "distance": 9.3,
+        "address": "Shop G25, G\/F, Fu Shin Shopping Centre, Fu Shin Estate, Tai Po, N.T.",
+        "tooltips": "Fu Shin Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3079182,
+        "lng": 114.1711064,
+        "telephone": "27804073",
+        "title": "Hang Shing Building",
+        "distance": 0.9,
+        "address": "Shop B, G\/F, Hang Shing Building , 363 - 373 Nathan Road , Yaumatei , Kowloon",
+        "tooltips": "Hang Shing Building",
+        "terms": []
+    },
+    {
+        "lat": 22.331304,
+        "lng": 114.170219,
+        "telephone": "27840215",
+        "title": "Woh Chai Street",
+        "distance": 0.9,
+        "address": "Shop B2 & B3, G\/F, Ample Building, 1-13 Who Chai Street, Shek Kip Mei, Kowloon",
+        "tooltips": "Woh Chai Street",
+        "terms": []
+    },
+    {
+        "lat": 22.3055248,
+        "lng": 114.1703865,
+        "telephone": "23325215",
+        "title": "Pak Shing Building",
+        "distance": 1.1,
+        "address": "Basement & G\/F(Portion) , 31-37 Jordan Road, Kowloon",
+        "tooltips": "Pak Shing Building",
+        "terms": []
+    },
+    {
+        "lat": 22.3348181,
+        "lng": 114.1597737,
+        "telephone": "27283566",
+        "title": "Manor Centre",
+        "distance": 1.1,
+        "address": "No. 23-26, Manor Centre, No.213 Un Chau Street, Sham Shui Po, Kowloon",
+        "tooltips": "Manor Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3121605,
+        "lng": 114.178795,
+        "telephone": "27577891",
+        "title": "Oi Man Plaza",
+        "distance": 1.1,
+        "address": "SHOP NO. G38A,G\/F, OI MAN PLAZA, UPPER OI MAN ESTATE, NO. 60 CHUNG HAU STREET, HO MAN TIN, KOWLOON",
+        "tooltips": "Oi Man Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.335339,
+        "lng": 114.154595,
+        "telephone": "27583292",
+        "title": "Fortune Shopping Centre",
+        "distance": 1.2,
+        "address": "SHOP NO. 111, 1\/F, FORTUNE SHOPPING CENTRE, FORTUNE ESTATE, 8 HANG CHEUNG STREET, CHEUNG SHA WAN, KOWLOON",
+        "tooltips": "Fortune Shopping Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3368433,
+        "lng": 114.1586822,
+        "telephone": "27088169",
+        "title": "Castle Peak Road",
+        "distance": 1.2,
+        "address": "G\/F-1\/F., Elegance Court, No.212-214 Castle Peak Road, Sham Shui Po, Kowloon",
+        "tooltips": "Castle Peak Road",
+        "terms": []
+    },
+    {
+        "lat": 22.500198,
+        "lng": 114.141608,
+        "telephone": "26763860",
+        "title": "Union Plaza",
+        "distance": 12.6,
+        "address": "Shop Nos. 2A & 2B, G\/F, Union Plaza, No.9 Wo Muk Road, Luen Wo Hui, Fanling, N.T.",
+        "tooltips": "Union Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.5012113,
+        "lng": 114.1316266,
+        "telephone": "26390646\t",
+        "title": "Sheung Shui Town Centre",
+        "distance": 12.7,
+        "address": "Shop Nos. 12-16 Podium Level 2, Sheung Shui Town Center, 9 Chi Cheong Road, Sheung Shui, N.T.",
+        "tooltips": "Sheung Shui Town Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.503554,
+        "lng": 114.1338055,
+        "telephone": "26392254",
+        "title": "Tin Ping Estate",
+        "distance": 12.9,
+        "address": "Shop 122, G\/F, Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shui, N.T.",
+        "tooltips": "Tin Ping Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.5027345,
+        "lng": 114.1248779,
+        "telephone": "26723936",
+        "title": "Choi Yuen Estate",
+        "distance": 12.9,
+        "address": "Shop Nos. R36 & R37, 3\/F, Choi Yuen Shopping Centre, Sheung Shui, N.T.",
+        "tooltips": "Choi Yuen Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3922083,
+        "lng": 113.9758571,
+        "telephone": "24413628",
+        "title": "Trend Plaza",
+        "distance": 13,
+        "address": "Shop Nos. 13 & 14, Level 3, South Wing, Trend Plaza, 2 Tuen Hop Street, Tuen Mun, N.T.",
+        "tooltips": "Trend Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.301755,
+        "lng": 114.1705215,
+        "telephone": "23171527",
+        "title": "Kowloon Park",
+        "distance": 1.3,
+        "address": "Arcade, Kowloon Park, 22 Austin Road, Tsim Sha Tsui, Kowloon",
+        "tooltips": "Kowloon Park",
+        "terms": []
+    },
+    {
+        "lat": 22.413687,
+        "lng": 113.983152,
+        "telephone": "24537011",
+        "title": "Fu Tai Estate",
+        "distance": 13.2,
+        "address": "Shop No.215, 2\/F, Fu Tai Shopping Centre, Fu Tai Estate, Tuen Mun, N.T.",
+        "tooltips": "Fu Tai Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3005315,
+        "lng": 114.1678015,
+        "telephone": "27361760",
+        "title": "China HK City",
+        "distance": 1.3,
+        "address": "Shop No. 28, 1\/F, China Hong Kong City, 33 Canton Road, Tsim Sha Tsui, Kowloon",
+        "tooltips": "China HK City",
+        "terms": []
+    },
+    {
+        "lat": 22.3812408,
+        "lng": 113.9643827,
+        "telephone": "24683707",
+        "title": "Sun Tuen Mun Centre",
+        "distance": 13.4,
+        "address": "Shop Nos. 9-11, Level 2, Sun Tuen Mun Shopping Centre, 55-65 Lung Mun Road, Tuen Mun, N.T.",
+        "tooltips": "Sun Tuen Mun Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3966317,
+        "lng": 113.9665641,
+        "telephone": "24641660",
+        "title": "Shan King Estate",
+        "distance": 13.7,
+        "address": "Shop 124, Shan King Shopping Centre, Shan King Estate, Tuen Mun, N.T.",
+        "tooltips": "Shan King Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.407878,
+        "lng": 113.968484,
+        "telephone": "24645711",
+        "title": "Blossom Garden",
+        "distance": 13.9,
+        "address": "Shops 1 & 2, G\/F, Blossom Garden Shopping Arcade, No.11 Leung Tak Street, Tuen Mun, N.T.",
+        "tooltips": "Blossom Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.3364841,
+        "lng": 114.1751935,
+        "telephone": "22658232",
+        "title": "Festival Walk",
+        "distance": 1.4,
+        "address": "Unit LG1-01A, Level LG1, Festival Walk, 80 Tat Chee Avenue, Kowloon, Hong Kong",
+        "tooltips": "Festival Walk",
+        "terms": []
+    },
+    {
+        "lat": 22.338762,
+        "lng": 114.15524,
+        "telephone": "29581556",
+        "title": "Hing Wah Street",
+        "distance": 1.4,
+        "address": "G\/F, 416-420 Un Chau Street, Sham Shui Po, Kowloon",
+        "tooltips": "Hing Wah Street",
+        "terms": []
+    },
+    {
+        "lat": 22.2894343,
+        "lng": 113.9408813,
+        "telephone": "21092404",
+        "title": "Citygate",
+        "distance": 14.4,
+        "address": "Unit 112, 1\/F Citygate, 20 Tat Tung Road, Tung Chung, Lantau Island",
+        "tooltips": "Citygate",
+        "terms": []
+    },
+    {
+        "lat": 22.281675,
+        "lng": 113.9348144,
+        "telephone": "31417367",
+        "title": "Yat Tung Estate",
+        "distance": 14.8,
+        "address": "Shop 104, 1\/F, Yat Tung Shopping Centre, Yat Tung Estate, Tung Chung, Lantau Island, N.T.",
+        "tooltips": "Yat Tung Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3403107,
+        "lng": 114.157685,
+        "telephone": "27565068",
+        "title": "So Uk Shopping Centre",
+        "distance": 1.5,
+        "address": "Shop Nos. G09 and G10, G\/F., So Uk Shopping Centre, So Uk Estate, Sham Shui Po, Kowloon",
+        "tooltips": "So Uk Shopping Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.319114,
+        "lng": 114.1873385,
+        "telephone": "27697811",
+        "title": "Delight Court",
+        "distance": 1.5,
+        "address": "Shop No. 1, G\/F & 1\/F, Delight Court, 418 Ma Tau Wai Road, To Kwa Wan, Kowloon",
+        "tooltips": "Delight Court",
+        "terms": []
+    },
+    {
+        "lat": 22.3371349,
+        "lng": 114.148673,
+        "telephone": "27434245",
+        "title": "Cheung Sha Wan Plaza",
+        "distance": 1.5,
+        "address": "Unit 286B-289, 291 & 293, 2\/F & 325-328, 3\/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road, Kowloon",
+        "tooltips": "Cheung Sha Wan Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3219466,
+        "lng": 114.1877869,
+        "telephone": "22468290",
+        "title": "Horae Place",
+        "distance": 1.6,
+        "address": "Shop No.1, G\/F, Horae Place, 207-211 Ma Tau Wai Road, To Kwa Wan, Kowloon",
+        "tooltips": "Horae Place",
+        "terms": []
+    },
+    {
+        "lat": 22.3033453,
+        "lng": 114.1814521,
+        "telephone": "27119576",
+        "title": "Hung Hom Station",
+        "distance": 1.6,
+        "address": "SHOP NO. HUH R2, MEZZANINE LEVEL, HUNG HOM STATION, KOWLOON, HONG KONG",
+        "tooltips": "Hung Hom Station",
+        "terms": []
+    },
+    {
+        "lat": 22.2983375,
+        "lng": 114.1743575,
+        "telephone": "23694398",
+        "title": "Prat Avenue",
+        "distance": 1.6,
+        "address": "Shop No. 1, G\/F, Multifield Plaza, 3-7A Prat Avenue, Tsim Sha Tsui, Kowloon",
+        "tooltips": "Prat Avenue",
+        "terms": []
+    },
+    {
+        "lat": 22.300215,
+        "lng": 114.1782124,
+        "telephone": "28041787",
+        "title": "New Mandarin Plaza",
+        "distance": 1.6,
+        "address": "Shop Nos. G27-G29, G\/F & Shop 127-138, 1\/F, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui, Kowloon",
+        "tooltips": "New Mandarin Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.2965356,
+        "lng": 114.1709903,
+        "telephone": "23760170",
+        "title": "Peking Road",
+        "distance": 1.7,
+        "address": "Basement & G\/F of Sands Building, 12 Peking Road, Tsim Sha Tsui, Kowloon",
+        "tooltips": "Peking Road",
+        "terms": []
+    },
+    {
+        "lat": 22.315079,
+        "lng": 114.188797,
+        "telephone": "23335578",
+        "title": "To Kwa Wan Road",
+        "distance": 1.7,
+        "address": "35-37 To Kwa Wan Road, Kowloon",
+        "tooltips": "To Kwa Wan Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3079053,
+        "lng": 114.187195,
+        "telephone": "29945909",
+        "title": "Ka Wai Chuen",
+        "distance": 1.7,
+        "address": "Shop Nos. UG10-12, Upper G\/F, Ka Wai Plaza, Nos.46-48 Ma Tau Wai Rd, Hunghom, Kln",
+        "tooltips": "Ka Wai Chuen",
+        "terms": []
+    },
+    {
+        "lat": 22.2944543,
+        "lng": 114.1687698,
+        "telephone": "27356379",
+        "title": "Star House",
+        "distance": 1.8,
+        "address": "G\/F & Basement, Star House, 3 Salisbury Road, Kowloon",
+        "tooltips": "Star House",
+        "terms": []
+    },
+    {
+        "lat": 22.3309857,
+        "lng": 114.1879624,
+        "telephone": "27187673",
+        "title": "Kowloon City Plaza",
+        "distance": 1.8,
+        "address": "Shops UG02B, UG03 & UG05, UG\/F, Kowloon City Plaza, 128 Carpenter Road, Kowloon City, Kowloon",
+        "tooltips": "Kowloon City Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.306068,
+        "lng": 114.190308,
+        "telephone": "27742777",
+        "title": "Whampoa Garden",
+        "distance": 2,
+        "address": "Shop Nos. G7A on G\/F and 1B12-14 on B1\/F, Treasure World, Whampoa Garden, Hung Hom, Kowloon",
+        "tooltips": "Whampoa Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.3374675,
+        "lng": 114.1394451,
+        "telephone": "27862178",
+        "title": "Mei Foo Sun Chuen",
+        "distance": 2,
+        "address": "Shop N60A, 1-7 Mount Sterling Mall, Mei Foo Sun Chuen, Kowloon",
+        "tooltips": "Mei Foo Sun Chuen",
+        "terms": []
+    },
+    {
+        "lat": 22.3383244,
+        "lng": 114.1872329,
+        "telephone": "23385032",
+        "title": "Lok Fu Place",
+        "distance": 2,
+        "address": "Shop Nos. 3112-3114, 3\/F, Lok Fu Place, 198 Junction Road, Kowloon",
+        "tooltips": "Lok Fu Place",
+        "terms": []
+    },
+    {
+        "lat": 22.3338518,
+        "lng": 114.1957967,
+        "telephone": "23201578",
+        "title": "Yue Xiu Plaza",
+        "distance": 2.3,
+        "address": "Shop G02-G05, G\/F, Yue Xiu Plaza,3-23 Ning Yuen Street,San Po Kong, Kowloon",
+        "tooltips": "Yue Xiu Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.28588,
+        "lng": 114.158131,
+        "telephone": "24786588",
+        "title": "ifc mall",
+        "distance": 2.3,
+        "address": "Shop No. 2022, Podium Level Two, ifc mall, 1 Harbour View Street, Central, Hong Kong",
+        "tooltips": "ifc mall",
+        "terms": []
+    },
+    {
+        "lat": 22.3445998,
+        "lng": 114.1906127,
+        "telephone": "23279998",
+        "title": "Chuk Yuen Estate",
+        "distance": 2.5,
+        "address": "Flat Roof, Chuk Yuen Shopping Centre, Chuk Yuen (South) Estate, Kowloon",
+        "tooltips": "Chuk Yuen Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.2853316,
+        "lng": 114.1503454,
+        "telephone": "25418667",
+        "title": "Queen's Road",
+        "distance": 2.5,
+        "address": "Shop 2A & 2B, G\/F, QRC299, 287-299 Queen's Road Central, Sheung Wan, Hong Kong\r\n",
+        "tooltips": "Queen's Road",
+        "terms": []
+    },
+    {
+        "lat": 22.283593,
+        "lng": 114.1571031,
+        "telephone": "25234310",
+        "title": "Chuang's Tower",
+        "distance": 2.5,
+        "address": "UG\/F, LG\/F, Chuang's Tower, 30-32 Connaught Road, Central, Hong Kong",
+        "tooltips": "Chuang's Tower",
+        "terms": []
+    },
+    {
+        "lat": 22.287058,
+        "lng": 114.142887,
+        "telephone": "28583417",
+        "title": "Queen's Road West",
+        "distance": 2.6,
+        "address": "G\/F, 265 Queen's Road West, Western, Hong Kong",
+        "tooltips": "Queen's Road West",
+        "terms": []
+    },
+    {
+        "lat": 22.2824,
+        "lng": 114.156237,
+        "telephone": "25263770",
+        "title": "Yu To Sang Building",
+        "distance": 2.6,
+        "address": "McDonald's, Yu To Sang Building, Queen's Road Central, Central, Hong Kong",
+        "tooltips": "Yu To Sang Building",
+        "terms": []
+    },
+    {
+        "lat": 22.323968,
+        "lng": 114.203765,
+        "telephone": "23211739",
+        "title": "E-Max",
+        "distance": 2.6,
+        "address": "Shop 1, G\/F, Kowloon Bay International Trade & Exhibition Centre, 1 Trademart Drive, Kowloon Bay, Kowloon",
+        "tooltips": "E-Max",
+        "terms": []
+    },
+    {
+        "lat": 22.3384451,
+        "lng": 114.1991519,
+        "telephone": "22670798",
+        "title": "Maxgrand Plaza",
+        "distance": 2.6,
+        "address": "Shops F & G, G\/F, Maxgrand Plaza, 3 Tai Yau Street, San Po Kong",
+        "tooltips": "Maxgrand Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3315451,
+        "lng": 114.2030178,
+        "telephone": "23820518",
+        "title": "Ching Long Shopping Centre",
+        "distance": 2.7,
+        "address": "Shop B001, G\/F, Ching Long Shopping Centre, Muk Chui Street, Kowloon City, Kowloon",
+        "tooltips": "Ching Long Shopping Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.2803654,
+        "lng": 114.1769119,
+        "telephone": "25110948",
+        "title": "Harbour",
+        "distance": 2.8,
+        "address": "Shop G1, G\/F, Sun Hung Kai Centre, 30 Harbour Road, Wanchai, Hong Kong",
+        "tooltips": "Harbour",
+        "terms": []
+    },
+    {
+        "lat": 22.3199795,
+        "lng": 114.2084331,
+        "telephone": "23590412",
+        "title": "MegaBox",
+        "distance": 2.9,
+        "address": "Unit 34, Level 2, MegaBox, 38 Wang Chiu Road, Kowloon Bay, Hong Kong",
+        "tooltips": "MegaBox",
+        "terms": []
+    },
+    {
+        "lat": 22.2881574,
+        "lng": 114.1941087,
+        "telephone": "25783870",
+        "title": "Fortress Metro Tower",
+        "distance": 2.9,
+        "address": "Shop B2 & B3, G\/F, Fortress Metro Tower, 238 King's Road, North Point, Hong Kong",
+        "tooltips": "Fortress Metro Tower",
+        "terms": []
+    },
+    {
+        "lat": 22.2858022,
+        "lng": 114.1354354,
+        "telephone": "25407710",
+        "title": "Hill Road",
+        "distance": 2.9,
+        "address": "484-496 Queen's Rd West, Sai Ying Pun, Hong Kong",
+        "tooltips": "Hill Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3440779,
+        "lng": 114.2004223,
+        "telephone": "23527761",
+        "title": "Fung Tak Estate",
+        "distance": 2.9,
+        "address": "Shop No. 202A, Fung Tak Shopping Centre, Fung Tak Estate, Diamond Hill, Kowloon",
+        "tooltips": "Fung Tak Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.280668,
+        "lng": 114.1825792,
+        "telephone": "28913503",
+        "title": "Percival Street",
+        "distance": 2.9,
+        "address": "Portion of Shop C2 & C3 on Ground Floor and whole Basement, Po Hon Building,24-30 Percival Street, Causeway Bay, Hong Kong",
+        "tooltips": "Percival Street",
+        "terms": []
+    },
+    {
+        "lat": 22.2908404,
+        "lng": 114.1975791,
+        "telephone": "25785473",
+        "title": "King's Road",
+        "distance": 2.9,
+        "address": " Flat A-C, G\/F, Aik San Mansion, 355-361 King's Road, North Point, Hong Kong",
+        "tooltips": "King's Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3433531,
+        "lng": 114.1250153,
+        "telephone": "24190262",
+        "title": "ATL Logistics Centre",
+        "distance": 3,
+        "address": "12\/F., Asia Terminals Centre B, Berth 3, Kwai Chung, N.T.",
+        "tooltips": "ATL Logistics Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.2772208,
+        "lng": 114.1732649,
+        "telephone": "25723630",
+        "title": "O'Brien Road",
+        "distance": 3,
+        "address": "Shop B, C & D4, Southern Centre, 2 O'Brien Road, Wanchai, Hong Kong",
+        "tooltips": "O'Brien Road",
+        "terms": []
+    },
+    {
+        "lat": 22.277985,
+        "lng": 114.1779013,
+        "telephone": "28939503",
+        "title": "Hennessy",
+        "distance": 3,
+        "address": "Shop G11-17 ,G\/F , C.C. Wu Building, 302-308 Hennessy Road, Wanchai, Hong Kong",
+        "tooltips": "Hennessy",
+        "terms": []
+    },
+    {
+        "lat": 22.2770061,
+        "lng": 114.1756812,
+        "telephone": "25914351",
+        "title": "Johnston Road",
+        "distance": 3,
+        "address": "Shop No.2, G\/F., Chinachem Johnston Plaza, 178-186 Johnston Road, Wanchai, Hong Kong",
+        "tooltips": "Johnston Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3213269,
+        "lng": 114.2112792,
+        "telephone": "27117892",
+        "title": "Wang Hoi Road",
+        "distance": 3.1,
+        "address": "Shop Units No.1 and 2, G\/F, Chevalier Commercial Centre, No.8 Wang Hoi Road, Kowloon Bay, Kowloon",
+        "tooltips": "Wang Hoi Road",
+        "terms": []
+    },
+    {
+        "lat": 22.291033,
+        "lng": 114.200632,
+        "telephone": "25638416",
+        "title": "Roca Centre",
+        "distance": 3.1,
+        "address": "Basement one , Roca Centre, 460-470 King's Road, North Point, HK",
+        "tooltips": "Roca Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.2795267,
+        "lng": 114.1859171,
+        "telephone": "25778240",
+        "title": "Yee Wo Street",
+        "distance": 3.1,
+        "address": "G\/F-2\/F, 46-54 Yee Wo Street, Causeway Bay, Hong Kong",
+        "tooltips": "Yee Wo Street",
+        "terms": []
+    },
+    {
+        "lat": 22.2746386,
+        "lng": 114.1717253,
+        "telephone": "25284973",
+        "title": "Hopewell Centre",
+        "distance": 3.1,
+        "address": "Shop No. 309-314 Hopewell Centre, 183 Queen's Road East, Wanchai ",
+        "tooltips": "Hopewell Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.2776353,
+        "lng": 114.1829035,
+        "telephone": "31264113",
+        "title": "Leighton Centre",
+        "distance": 3.1,
+        "address": "Shop B02, Basement, Leighton Centre, 77 Leighton Road, Causeway Bay, H.K",
+        "tooltips": "Leighton Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3470226,
+        "lng": 114.2023161,
+        "telephone": "27528426",
+        "title": "Yuk Wah Street",
+        "distance": 3.1,
+        "address": "Shop No.1, G\/F., Manning Theatre Building, 68 Yuk Wah Street, Tsz Wan Shan, Kowloon",
+        "tooltips": "Yuk Wah Street",
+        "terms": []
+    },
+    {
+        "lat": 22.3329963,
+        "lng": 114.2101922,
+        "telephone": "22527938",
+        "title": "Ping Shek Estate",
+        "distance": 3.1,
+        "address": "Shop G1, Carpark, Ping Shek Estate, Ngau Chi Wan, Kowloon",
+        "tooltips": "Ping Shek Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.2790551,
+        "lng": 114.1880455,
+        "telephone": "28949677",
+        "title": "Tung Lo Wan Road",
+        "distance": 3.2,
+        "address": "A, 1\/F, Cathay Mansion, 11-17A Tung Lo Wan Road, Causeway Bay, Hong Kong",
+        "tooltips": "Tung Lo Wan Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3238143,
+        "lng": 114.2135246,
+        "telephone": "27568166",
+        "title": "Telford Plaza",
+        "distance": 3.2,
+        "address": "Shop F21, Telford Plaza I, Kowloon Bay, Kowloon",
+        "tooltips": "Telford Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.2834332,
+        "lng": 114.1305981,
+        "telephone": "28174130",
+        "title": "Smithfield",
+        "distance": 3.2,
+        "address": "G\/F-1\/F, Man Kwong Court, 12F-12G Smithfield, Kennedy Town, Hong Kong",
+        "tooltips": "Smithfield",
+        "terms": []
+    },
+    {
+        "lat": 22.3337874,
+        "lng": 114.2147761,
+        "telephone": "27775288",
+        "title": "Choi Wan Estate",
+        "distance": 3.4,
+        "address": "Shop Nos. A104 & A115, UG\/F, Choi Wan Shopping Centre (Phase II), Choi Wan (I) Estate, 45 Clear Water Bay Road, Ngau Chi Wan, Kowloon",
+        "tooltips": "Choi Wan Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.2701512,
+        "lng": 114.1496575,
+        "telephone": "28496379",
+        "title": "Peak Galleria",
+        "distance": 3.5,
+        "address": "Shop Nos. 11  & 12 on Level Two, The Peak Galleria, 118 Peak Road, Hong Kong",
+        "tooltips": "Peak Galleria",
+        "terms": []
+    },
+    {
+        "lat": 22.3574957,
+        "lng": 114.1269292,
+        "telephone": "24224134\t",
+        "title": "Metroplaza",
+        "distance": 3.5,
+        "address": "Shop No. 514, Level 5, Metroplaza, 223 Hing Fong Road, Kwai Fong, New Territories",
+        "tooltips": "Metroplaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3600976,
+        "lng": 114.1284385,
+        "telephone": "24949167",
+        "title": "Wing Fong Road",
+        "distance": 3.6,
+        "address": "Shop A, G\/F, Southern Building, 1-5 Wing Fong Road, Kwai Chung, N.T.",
+        "tooltips": "Wing Fong Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3677479,
+        "lng": 114.1392549,
+        "telephone": "24232122",
+        "title": "Sing Shing Building",
+        "distance": 3.7,
+        "address": "G\/F, Sing Shing Building, 90-114 Wo Yee Hop Road, Kwai Chung, N.T.",
+        "tooltips": "Sing Shing Building",
+        "terms": []
+    },
+    {
+        "lat": 22.2688005,
+        "lng": 114.184877,
+        "telephone": "28920197",
+        "title": "King Kwong Street",
+        "distance": 3.8,
+        "address": "Shop A, G\/F., Chun Hing Mansion, 19-21 King Kwong Street, Happy Valley, Hong Kong",
+        "tooltips": "King Kwong Street",
+        "terms": []
+    },
+    {
+        "lat": 22.3149965,
+        "lng": 114.2223784,
+        "telephone": "23442756",
+        "title": "Ngau Tau Kok Road",
+        "distance": 3.8,
+        "address": "G\/F & Basement, Kentlum Mansion, 327-333 Ngau Tau Kok Road, KwunTong, Kowloon",
+        "tooltips": "Ngau Tau Kok Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3672988,
+        "lng": 114.1332523,
+        "telephone": "27854939",
+        "title": "Tak Cheong Building",
+        "distance": 3.8,
+        "address": "Shop 3, 1\/F, Tak Cheong Building, 1001 Kwai Chung Road, Kwai Chung, New Territories.",
+        "tooltips": "Tak Cheong Building",
+        "terms": []
+    },
+    {
+        "lat": 22.309603,
+        "lng": 114.2245146,
+        "telephone": "27203703",
+        "title": "The Wave",
+        "distance": 4,
+        "address": "Shop No. 102 on First Floor, No. 4 Hing Yip Street, Kowloon",
+        "tooltips": "The Wave",
+        "terms": []
+    },
+    {
+        "lat": 22.3755951,
+        "lng": 114.1774669,
+        "telephone": "26089197",
+        "title": "Tai Wai",
+        "distance": 4,
+        "address": "Shop 1 on G\/F and whole 1\/F, Yiu Po Mansion,",
+        "tooltips": "Tai Wai",
+        "terms": []
+    },
+    {
+        "lat": 22.2844839,
+        "lng": 114.2130927,
+        "telephone": "28809603",
+        "title": "Park Vale",
+        "distance": 4,
+        "address": "Shop C, LG\/F, Park Vale, 1060 King's Road, Quarry Bay, Hong Kong",
+        "tooltips": "Park Vale",
+        "terms": []
+    },
+    {
+        "lat": 22.3731526,
+        "lng": 114.186758,
+        "telephone": "25275195",
+        "title": "Chun Shek Estate",
+        "distance": 4,
+        "address": "Shop 8-9, G\/F, Chun Shek Shopping Centre, 1 Shing Tin Street, Tai Wai",
+        "tooltips": "Chun Shek Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3114885,
+        "lng": 114.225792,
+        "telephone": "23388646",
+        "title": "Crocodile Centre",
+        "distance": 4,
+        "address": "Shop 2, 3a & 3b, 1\/F, Crocodile Center, 79 Hoi Yuen Road, Kwun Tong",
+        "tooltips": "Crocodile Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3315374,
+        "lng": 114.225687,
+        "telephone": "21749428",
+        "title": "Shun Lee",
+        "distance": 4.1,
+        "address": "Shop 201A, F2 Floor, Shopping Centre 1, Shun Lee Commercial Centre, Shun Lee Estate, 15 Lee On Road, Kwun Tong, Kowloon",
+        "tooltips": "Shun Lee",
+        "terms": []
+    },
+    {
+        "lat": 22.286721,
+        "lng": 114.217477,
+        "telephone": "29070004",
+        "title": "Cityplaza",
+        "distance": 4.1,
+        "address": "Shop No. 505, Level 5, Cityplaza, 18 Tai Koo Shing Road, Tai Koo Shing, Hong Kong",
+        "tooltips": "Cityplaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3781722,
+        "lng": 114.176093,
+        "telephone": "26975951",
+        "title": "Mei Lam Estate",
+        "distance": 4.1,
+        "address": "Shop No. 96, 1\/F, Mei Lam Shopping Centre, Mei Lam Estate, Tai Wai, N.T.",
+        "tooltips": "Mei Lam Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3069361,
+        "lng": 114.2281319,
+        "telephone": "23463285",
+        "title": "Laguna City",
+        "distance": 4.2,
+        "address": "Shop Nos. 6-9, G\/F, Laguna Plaza, Laguna City, Kowloon",
+        "tooltips": "Laguna City",
+        "terms": []
+    },
+    {
+        "lat": 22.3727472,
+        "lng": 114.1977853,
+        "telephone": "27902526",
+        "title": "Shui Chuen O Estate",
+        "distance": 4.3,
+        "address": "Shop No. 12, G\/F, Shui Chuen O Plaza, Shui Chuen O Estate, Shatin, N.T.",
+        "tooltips": "Shui Chuen O Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3691307,
+        "lng": 114.1223247,
+        "telephone": "24985689",
+        "title": "Texaco Road",
+        "distance": 4.3,
+        "address": "Podium A, G\/F, Wealthy Garden, Texaco Road, Tsuen Fu Street, Tsuen Wan, N.T.",
+        "tooltips": "Texaco Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3795063,
+        "lng": 114.1870935,
+        "telephone": "26034161",
+        "title": "Shatin Centre",
+        "distance": 4.4,
+        "address": "Shop Nos. 32A & 69A, Level 3, Shatin Centre, Shatin, N.T.",
+        "tooltips": "Shatin Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.379654,
+        "lng": 114.187132,
+        "telephone": "",
+        "title": "Hilton Plaza",
+        "distance": 4.4,
+        "address": "Shop Nos. 8 & 20, Level 3, Hilton Centre, Shatin, N.T.",
+        "tooltips": "Hilton Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.2829884,
+        "lng": 114.220962,
+        "telephone": "29679830",
+        "title": "Tai On",
+        "distance": 4.5,
+        "address": "G32-34, G\/F., Tai On Building, 15 Tai On Street, Shau Kei Wan, Hong Kong",
+        "tooltips": "Tai On",
+        "terms": []
+    },
+    {
+        "lat": 22.3540138,
+        "lng": 114.1035242,
+        "telephone": "27952081",
+        "title": "Tsing Yi Shopping Centre",
+        "distance": 4.5,
+        "address": "Shop Nos. S1-S2, Ground Floor, Tsing Yi Shopping Centre,  Tsing Yi Estate, 10 Fung Shue Wo Road, Tsing Yi, New Territories, Hong Kong",
+        "tooltips": "Tsing Yi Shopping Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.3581433,
+        "lng": 114.1062131,
+        "telephone": "24364742\t",
+        "title": "Maritime Square",
+        "distance": 4.5,
+        "address": "Shop Units G36-37, Ground Floor, Maritime Square, 31 Tsing King Road, Tsing Yi, New Territories",
+        "tooltips": "Maritime Square",
+        "terms": []
+    },
+    {
+        "lat": 22.3787079,
+        "lng": 114.1950346,
+        "telephone": "28779132",
+        "title": "Sha Kok",
+        "distance": 4.6,
+        "address": "Shop No. 239, Second Floor, Sha Kok Shopping Centre, Sha Kok Estate, Shatin, N.T.",
+        "tooltips": "Sha Kok",
+        "terms": []
+    },
+    {
+        "lat": 22.2606823,
+        "lng": 114.1297001,
+        "telephone": "27628532",
+        "title": "Cyberport",
+        "distance": 4.6,
+        "address": "Shop 1-2, level 1, The Annex, 100 Cyberport Road, Cyberport, Hong Kong",
+        "tooltips": "Cyberport",
+        "terms": []
+    },
+    {
+        "lat": 22.3058291,
+        "lng": 114.2336398,
+        "telephone": "23795337",
+        "title": "Sceneway Plaza",
+        "distance": 4.6,
+        "address": "Shop No. 1, Level (Site 1) 26, Sceneway Garden, N.K.I.L. 6046, 8 Sceneway Road, Cha Kwo Ling East, Kowloon",
+        "tooltips": "Sceneway Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3697529,
+        "lng": 114.1162982,
+        "telephone": "24122134",
+        "title": "Sha Tsui Road",
+        "distance": 4.6,
+        "address": "G\/F-1\/F, Kwong Fat Building, 270-276 Sha Tsui Road, Tsuen Wan, N.T.",
+        "tooltips": "Sha Tsui Road",
+        "terms": []
+    },
+    {
+        "lat": 22.3720086,
+        "lng": 114.1166017,
+        "telephone": "24930754",
+        "title": "Market Street",
+        "distance": 4.7,
+        "address": "G\/F, No. 10-16 Market Street, Tsuen Wan, N.T.",
+        "tooltips": "Market Street",
+        "terms": []
+    },
+    {
+        "lat": 22.3680845,
+        "lng": 114.1106576,
+        "telephone": "24675221",
+        "title": "OP Mall",
+        "distance": 4.8,
+        "address": "Shop No. 2029, 2\/F, OP Mall, 100 Tai Ho Road, Tsuen Wan, New Territories",
+        "tooltips": "OP Mall",
+        "terms": []
+    },
+    {
+        "lat": 22.3704413,
+        "lng": 114.1113744,
+        "telephone": "24115973",
+        "title": "Tsuen Wan Plaza",
+        "distance": 4.8,
+        "address": "Shop Nos. 511-512 & 511-512A, Level 5, Tsuen Wan Plaza, 4-30 Tai Pa Street, Tsuen Wan, New Territories",
+        "tooltips": "Tsuen Wan Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.354612,
+        "lng": 114.097692,
+        "telephone": "24975055",
+        "title": "Cheung Hang Estate",
+        "distance": 4.8,
+        "address": "Shop Nos.115-117, LG 1, Cheung Hang Shopping Centre, Cheung Hans Estate, Tsing Yi, New Territories",
+        "tooltips": "Cheung Hang Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.363348,
+        "lng": 114.1029663,
+        "telephone": "24338156",
+        "title": "Cheung Fat Estate",
+        "distance": 4.9,
+        "address": "Shop Nos. 405-407, 4\/F, Cheung Fat Shopping Centre, Cheung Fat Estate, Tsing Yi Island, N.T.",
+        "tooltips": "Cheung Fat Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.2487869,
+        "lng": 114.1538679,
+        "telephone": "25545920",
+        "title": "Aberdeen Centre",
+        "distance": 4.9,
+        "address": "Shops 6A & 6B,G\/F, Site 4, Aberdeen Centre, AIL 302, Aberdeen, Hong Kong\r\n",
+        "tooltips": "Aberdeen Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.2983917,
+        "lng": 114.2372842,
+        "telephone": "24898777",
+        "title": "Yau Lai Estate",
+        "distance": 4.9,
+        "address": "Shop Nos. 5-6, G\/F, Yau Lai Shopping Centre, Yau Lai Estate, Yau Tong, Kowloon",
+        "tooltips": "Yau Lai Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.2466607,
+        "lng": 114.1757239,
+        "telephone": "25183856",
+        "title": "'Ocean Park",
+        "distance": 5.1,
+        "address": "Spider Kiosk at Headland, Ocean Park, Aberdeen, Hong Kong",
+        "tooltips": "'Ocean Park",
+        "terms": []
+    },
+    {
+        "lat": 22.3764012,
+        "lng": 114.111548,
+        "telephone": "29400759",
+        "title": "D \u2219 Park",
+        "distance": 5.1,
+        "address": "Shop 2022-2023, Level Two, Discovery Park Shopping Centre, 398 Castle Peak Road, Tsuen Wan, NT",
+        "tooltips": "D \u2219 Park",
+        "terms": []
+    },
+    {
+        "lat": 22.2775584,
+        "lng": 114.2303071,
+        "telephone": "25608884",
+        "title": "Shau Kei Wan Main Street East",
+        "distance": 5.2,
+        "address": "G\/F-2\/F, Tung Fai Bldg., 159 Shau Kei Wan Main Rd East, Shau Kei Wan, HK",
+        "tooltips": "Shau Kei Wan Main Street East",
+        "terms": []
+    },
+    {
+        "lat": 22.2436381,
+        "lng": 114.153457,
+        "telephone": "26731619\t",
+        "title": "Ap Lei Chau Main Street",
+        "distance": 5.3,
+        "address": "Shop C2 & D, G\/F & 1\/F, Happy View Building,165-167 Ap Lei Chau Main Street, Aberdeen, Hong Kong",
+        "tooltips": "Ap Lei Chau Main Street",
+        "terms": []
+    },
+    {
+        "lat": 22.3871067,
+        "lng": 114.2028926,
+        "telephone": "26483765",
+        "title": "Fortune City One",
+        "distance": 5.3,
+        "address": "Shop Nos. G78-G81 & G82C, G\/F, Fortune City One, City One Shatin,1 Ngan Shing Street, Shatin, N.T.",
+        "tooltips": "Fortune City One",
+        "terms": []
+    },
+    {
+        "lat": 22.2437937,
+        "lng": 114.1468214,
+        "telephone": "25809762",
+        "title": "Marina Square",
+        "distance": 5.3,
+        "address": "Unit 205, 2\/F, West Commercial Centre, Marina Square, South Horizons, Apleichau, Hong Kong\r\n",
+        "tooltips": "Marina Square",
+        "terms": []
+    },
+    {
+        "lat": 22.3717174,
+        "lng": 114.1016658,
+        "telephone": "25761399",
+        "title": "Belvedere Garden",
+        "distance": 5.3,
+        "address": "Shop Nos. 48 & 49A, G\/F, Belvedere Square, Belvedere Garden Phase 3, 625 Castle Peak Road, Tsuen Wan, New Territories",
+        "tooltips": "Belvedere Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.2409897,
+        "lng": 114.1559524,
+        "telephone": "28749654",
+        "title": "Lei Tung Estate",
+        "distance": 5.4,
+        "address": "Shop No.212, Phase II, Lei Tung Commercial Centre, Lei Tung Estate, Ap Lei Chau, Southern, Hong Kong",
+        "tooltips": "Lei Tung Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.2783282,
+        "lng": 114.2386153,
+        "telephone": "28965292",
+        "title": "Heng Fa Chuen",
+        "distance": 5.6,
+        "address": "Shop Unit G46, G\/F, Paradise Mall, Heng Fa Chuen, 100 Shing Tai Road, Chai Wan, Hong Kong",
+        "tooltips": "Heng Fa Chuen",
+        "terms": []
+    },
+    {
+        "lat": 22.3906135,
+        "lng": 114.2063647,
+        "telephone": "26798129",
+        "title": "Courtyard Shatin",
+        "distance": 5.6,
+        "address": "Shop No. 1, G\/F, On Ping Street, Shatin, N.T.",
+        "tooltips": "Courtyard Shatin",
+        "terms": []
+    },
+    {
+        "lat": 22.306968,
+        "lng": 114.257852,
+        "telephone": "27870201",
+        "title": "Park Central",
+        "distance": 6.1,
+        "address": "Shop No. G33 on G\/F of Park Central, No. 9 Tong Tak Street, Tseung Kwan O, Sai Kung, New Territories",
+        "tooltips": "Park Central",
+        "terms": []
+    },
+    {
+        "lat": 22.3090651,
+        "lng": 114.2624233,
+        "telephone": "26741217",
+        "title": "Tseung Kwan O Plaza",
+        "distance": 6.4,
+        "address": "Shop Nos. 2-018-020, Level 2, Commercial Portion of Tseung Kwan O Plaza, 1 Tong Tak Street, Tseung Kwan O, New Territories",
+        "tooltips": "Tseung Kwan O Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3172083,
+        "lng": 114.2658933,
+        "telephone": "27043722",
+        "title": "TKO Gateway",
+        "distance": 6.6,
+        "address": "Shop W102, 1\/F, West Wing, TKO Gateway, Sheung Ning Road, Tseung Kwan O ,New Territories",
+        "tooltips": "TKO Gateway",
+        "terms": []
+    },
+    {
+        "lat": 22.2628253,
+        "lng": 114.2498465,
+        "telephone": "25150314",
+        "title": "Cheerful Garden",
+        "distance": 6.8,
+        "address": "Shop Nos. C10-C19, G\/F, Cheerful Garden, No.23 Siu Sai Wan Rd., Chai Wan, Hong Kong",
+        "tooltips": "Cheerful Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.2949071,
+        "lng": 114.2697138,
+        "telephone": "27951806",
+        "title": "THE LOHAS",
+        "distance": 7,
+        "address": "SHOP UNIT 431A, LEVEL 4, THE LOHAS, NO.1 LOHAS PARK ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+        "tooltips": "THE LOHAS",
+        "terms": []
+    },
+    {
+        "lat": 22.368432,
+        "lng": 114.061637,
+        "telephone": "24563903",
+        "title": "Rhine Garden",
+        "distance": 7.3,
+        "address": "Portion of Restaurant A & Shop D, G\/F, Rhine Garden, 38 Castle Peak Road, Sham Tseng, Tsuen Wan, New Territories",
+        "tooltips": "Rhine Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.2187596,
+        "lng": 114.2096335,
+        "telephone": "28130655",
+        "title": "Stanley Plaza",
+        "distance": 7.6,
+        "address": "Shop No. G02 & G03, G\/F, Stanley Plaza, 23 Carmel Road, Stanley, Hong Kong",
+        "tooltips": "Stanley Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3822222,
+        "lng": 114.2713889,
+        "telephone": "27925585",
+        "title": "Sai Kung Garden",
+        "distance": 8.2,
+        "address": "G\/F, Sai Kung Garden, Sai Kung Town, Sai Kung, Kowloon",
+        "tooltips": "Sai Kung Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.4484573,
+        "lng": 114.1668334,
+        "telephone": "26538411",
+        "title": "Kwong Fuk Road",
+        "distance": 8.9,
+        "address": "Basement - G\/F, Po Hong Mansion, 70-78 Kwong Fuk Road, Tai Po, N.T.",
+        "tooltips": "Kwong Fuk Road",
+        "terms": []
+    },
+    {
+        "lat": 22.4506851,
+        "lng": 114.1607491,
+        "telephone": "26509136",
+        "title": "Tai Wo Estate",
+        "distance": 9.1,
+        "address": "Shop No.102, Tai Wo Shopping Mall, Tai Wo Estate, Tai Po, N.T.",
+        "tooltips": "Tai Wo Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.4524409,
+        "lng": 114.1680317,
+        "telephone": "26656612",
+        "title": "Fortune Plaza",
+        "distance": 9.2,
+        "address": " G\/F, Shop Nos. 57-66, Fortune Plaza, 4 On Chee Road, Tai Po, N.T.",
+        "tooltips": "Fortune Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.2965503,
+        "lng": 114.0169281,
+        "telephone": "29871033",
+        "title": "DB Plaza",
+        "distance": 9.5,
+        "address": "G\/F, Block A, D.B. Plaza, Discovery Bay, Lantau Island, Hong Kong",
+        "tooltips": "DB Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.2642074,
+        "lng": 114.0016513,
+        "telephone": "29841102",
+        "title": "Mui Wo",
+        "distance": 11,
+        "address": "G\/F, Mui Wo Centre, 3 Ngan Wan Rd., Mui Wo, Lantau Island, HK ",
+        "tooltips": "Mui Wo",
+        "terms": []
+    },
+    {
+        "lat": 22.2086111,
+        "lng": 114.0286111,
+        "telephone": "\t",
+        "title": "Cheung Chau",
+        "distance": 11.5,
+        "address": "G\/F & 1\/F, No 103 San Hing Street, Cheung Chau, Hong Kong (This restaurant opens 24 hours on Friday, Saturday & Eve of Public Holidays only)",
+        "tooltips": "Cheung Chau",
+        "terms": []
+    },
+    {
+        "lat": 22.4854804,
+        "lng": 114.141195,
+        "telephone": "26826084",
+        "title": "Flora Plaza",
+        "distance": 11.6,
+        "address": "Shop Nos. 91A, 93, 94 & 95, G\/F Flora Plaza, 88 Pak Wo Road, Fanling, N.T.",
+        "tooltips": "Flora Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3717971,
+        "lng": 113.9894773,
+        "telephone": "24416822",
+        "title": "Gold Coast",
+        "distance": 11.7,
+        "address": "G\/F, Marina Magic Shopping Mall, Commercial Centre, Hong Kong Gold Coast, Tuen Mun, N.T.",
+        "tooltips": "Gold Coast",
+        "terms": []
+    },
+    {
+        "lat": 22.4877231,
+        "lng": 114.1427277,
+        "telephone": "25281092",
+        "title": "Avon Mall ",
+        "distance": 11.7,
+        "address": " Shop No. 34B, Upper Ground Floor, Avon Park, 15 Yat Ming Road, Fanling, N.T.",
+        "tooltips": "Avon Mall ",
+        "terms": []
+    },
+    {
+        "lat": 22.4457587,
+        "lng": 114.0352248,
+        "telephone": "25205377",
+        "title": "Yoho Mall",
+        "distance": 12,
+        "address": "Shop No. A312, L3, Yoho Mall II, 8 Long Yat Road, Yuen Long, New Territories",
+        "tooltips": "Yoho Mall",
+        "terms": []
+    },
+    {
+        "lat": 22.4918335,
+        "lng": 114.1401071,
+        "telephone": "26765792",
+        "title": "Fanling ",
+        "distance": 12,
+        "address": "Shop No. 22, Level 2, Fanling Town Centre, Fanling, N.T.",
+        "tooltips": "Fanling ",
+        "terms": []
+    },
+    {
+        "lat": 22.4427108,
+        "lng": 114.0275937,
+        "telephone": "24430738",
+        "title": "Kau Yuk Road",
+        "distance": 12.2,
+        "address": "G\/F-1\/F, Hing Fat House, 9-13 Kau Yuk Road, Yuen Long, N.T.",
+        "tooltips": "Kau Yuk Road",
+        "terms": []
+    },
+    {
+        "lat": 22.4447042,
+        "lng": 114.0286843,
+        "telephone": "24748088",
+        "title": "Yuen Long Trade Centre",
+        "distance": 12.2,
+        "address": "G\/F-2\/F, Yuen Long Trade Centre, Nos.99-109 Castle Peak Road, Yuen Long, N.T.",
+        "tooltips": "Yuen Long Trade Centre",
+        "terms": []
+    },
+    {
+        "lat": 22.4448907,
+        "lng": 114.0239001,
+        "telephone": "24783431",
+        "title": "Yuen Long Plaza",
+        "distance": 12.4,
+        "address": "Shop 071-078, G\/F, Yuen Long Plaza, Castle Peak Road, Yuen Long. N.T.",
+        "tooltips": "Yuen Long Plaza",
+        "terms": []
+    },
+    {
+        "lat": 22.3888073,
+        "lng": 113.9793187,
+        "telephone": "24591736",
+        "title": "Wah Lok Mansion",
+        "distance": 12.7,
+        "address": "G\/F, Wah Lok Mansion, No.2 Tsing Shan Square, Tuen Mun, N.T.",
+        "tooltips": "Wah Lok Mansion",
+        "terms": []
+    },
+    {
+        "lat": 22.4502264,
+        "lng": 114.0232217,
+        "telephone": "24508700",
+        "title": "Long Ping Estate",
+        "distance": 12.7,
+        "address": "Shop No. L116, 1\/F, Long Ping Shopping Centre,Long Ping Estate, Yuen Long, N.T.",
+        "tooltips": "Long Ping Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3878435,
+        "lng": 113.9752328,
+        "telephone": "2430 7699\t",
+        "title": "On Ting Estate",
+        "distance": 12.9,
+        "address": "Shop Nos. A-144, Level 1, Zone A, H.A.N.D.S, On Ting Estate, Tuen Mun, N.T",
+        "tooltips": "On Ting Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.5040809,
+        "lng": 114.1265869,
+        "telephone": "26703509",
+        "title": "San Fung Avenue",
+        "distance": 13,
+        "address": "G\/F, Kam Shing Building, No.106-110 San Fung Avenue, Shek Wu Hui, Sheung Shui, N.T.",
+        "tooltips": "San Fung Avenue",
+        "terms": []
+    },
+    {
+        "lat": 22.4032393,
+        "lng": 113.9797899,
+        "telephone": "24412180",
+        "title": "Prime View Garden",
+        "distance": 13.1,
+        "address": "Shop Nos. G23, G25-G27, G\/F, Prime View Garden, 2 King Fung Path, Tuen Mun, N.T.",
+        "tooltips": "Prime View Garden",
+        "terms": []
+    },
+    {
+        "lat": 22.3988352,
+        "lng": 113.9750672,
+        "telephone": "24504721",
+        "title": "Heung Sze Wui Road",
+        "distance": 13.2,
+        "address": "Shop No. 14, G\/F, Hong Lai Garden, Heung Sze Wui Road, Tuen Mun, N.T.",
+        "tooltips": "Heung Sze Wui Road",
+        "terms": []
+    },
+    {
+        "lat": 22.4366712,
+        "lng": 113.9982189,
+        "telephone": "24570313",
+        "title": "Hung Fuk Estate",
+        "distance": 13.3,
+        "address": "Shop No. 1, G\/F, Hung Fuk Shopping Centre, Hung Fuk Estate, Hung Shui Kiu, Tin Sam Road, Yuen Long, N.T",
+        "tooltips": "Hung Fuk Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3752484,
+        "lng": 113.9630632,
+        "telephone": "24637410",
+        "title": "Butterfly Estate",
+        "distance": 13.4,
+        "address": "Shop no.L145-150, G\/F , Butterfly Plaza , Tuen Mun ,N.T.",
+        "tooltips": "Butterfly Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.3993642,
+        "lng": 113.9718627,
+        "telephone": "22346011",
+        "title": "Tai Hing Estate",
+        "distance": 13.4,
+        "address": "Shop No. L101, G\/F, Tai Hing Shopping Centre, 1 Tai Hing Street, Tuen Mun, N.T.",
+        "tooltips": "Tai Hing Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.4127,
+        "lng": 113.978182,
+        "telephone": "24649297",
+        "title": "Siu Hong Court",
+        "distance": 13.5,
+        "address": "Shop 109, G\/F, Siu Hong Shopping Centre, Siu Hong Court, Tuen Mun, N.T.",
+        "tooltips": "Siu Hong Court",
+        "terms": []
+    },
+    {
+        "lat": 22.4514115,
+        "lng": 114.0028642,
+        "telephone": "24460375",
+        "title": "Tin Yiu Estate",
+        "distance": 13.7,
+        "address": "Shop L011, G\/F, Commercial Car Park Block, Tin Yiu Estate, Tin Shui Wai, New Territories",
+        "tooltips": "Tin Yiu Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.4572699,
+        "lng": 114.0037781,
+        "telephone": "26174329",
+        "title": "Fortune Kingswood II",
+        "distance": 14,
+        "address": "Shop Nos. 57A \u2013 C, G\/F Phase 1 , +WOO, Tin Shui Wai ,New Territories",
+        "tooltips": "Fortune Kingswood II",
+        "terms": []
+    },
+    {
+        "lat": 22.4561072,
+        "lng": 113.9984839,
+        "telephone": "24458365",
+        "title": "Tin Shui Estate",
+        "distance": 14.1,
+        "address": "Shop No. 1, Tin Shui Shopping Centre, Tin Shui Estate, Tin Shui Wai, N.T.",
+        "tooltips": "Tin Shui Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.4063434,
+        "lng": 113.9627991,
+        "telephone": "24673956",
+        "title": "Leung King Estate",
+        "distance": 14.2,
+        "address": "Shop No.212 & 328A, Leung King Shopping Centre, Leung King Estate, Tuen Mun, N.T.",
+        "tooltips": "Leung King Estate",
+        "terms": []
+    },
+    {
+        "lat": 22.4647433,
+        "lng": 114.0030365,
+        "telephone": "27599439",
+        "title": "One Sky Mall",
+        "distance": 14.3,
+        "address": "Shop Nos. 1018-1019, 1\/F, One Sky Mall, 8 Tin Sau Road, Tin Shui Wai, N.T.",
+        "tooltips": "One Sky Mall",
+        "terms": []
+    },
+    {
+        "lat": 22.4616102,
+        "lng": 113.9978893,
+        "telephone": "22530291",
+        "title": "T Town South",
+        "distance": 14.4,
+        "address": "Shop No. S206, 2\/F, T Town South, Tin Chung Court, Tin Shui Wai, Yuen Long, N.T.",
+        "tooltips": "T Town South",
+        "terms": []
+    },
+    {
+        "lat": 22.469012,
+        "lng": 114.002131,
+        "telephone": "28115481",
+        "title": "Grandeur Terrace",
+        "distance": 14.6,
+        "address": "Shop G5-G7, G\/F, Grandeur Terrace, 88 Tin Shui Road, Yuen Long, N.T.",
+        "tooltips": "Grandeur Terrace",
+        "terms": []
+    },
+    {
+        "lat": 22.3149715,
+        "lng": 113.9340063,
+        "telephone": "22610426",
+        "title": "Airport Departures Hall",
+        "distance": 14.7,
+        "address": "Unit no. 7T102, 8T005A and 8T005, Terminal 1",
+        "tooltips": "Airport Departures Hall",
+        "terms": []
+    }
+]
