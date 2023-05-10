@@ -4,7 +4,7 @@ Authors: [Algebra-FUN](https://github.com/Algebra-FUN),   [Nibblesin](https://gi
 
 Copyright © 2023 All Rights Reserved.
 
-> Description on datasets can be found in [data/README.md](data/README.md)
+> Description on datasets can be found in [data/README.md](https://github.com/Annoying-MSDM5005/Site-Selection/blob/main/data/README.md)
 
 ## Basic strategy on site selection
 
